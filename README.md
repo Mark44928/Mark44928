@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mark44928
+# 🐧 Mark44928 🐧
 
 Systems C++ and Android tooling, built in Termux.
 
@@ -17,6 +17,7 @@ A dependency-free OS simulation in a single 240 KB C++ file — interactive shel
 
 <img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20260524-150528~2.png" width="520" alt="NoNameOS screenshot" />
 
+But that screenshot is from outdated NoNameOS version.
 ### 📱 android12-fastfetch
 A fastfetch configuration tuned for Android 12 and native X11 Termux desktops — XFCE, MATE, and LXQt. [View repo](https://github.com/Mark44928/android12-fastfetch)
 
