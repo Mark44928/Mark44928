@@ -1,60 +1,63 @@
+<div align="center">
+
 # Hi, I'm Mark44928 👋
 
-Software tinkerer · C++ systems & Android tooling · Building small, educational projects and practical utilities.
+**Software tinkerer** — C++ systems, Termux, and Android tooling. I build small, educational projects and practical utilities that are easy to read and fun to explore.
 
-[![Follow on GitHub](https://img.shields.io/github/followers/Mark44928?label=Follow&style=social)](https://github.com/Mark44928)
-[![NoNameOS Repo](https://img.shields.io/github/repo-size/Mark44928/NoNameOS?label=NoNameOS%20Size)](https://github.com/Mark44928/NoNameOS)
+[![Followers](https://img.shields.io/github/followers/Mark44928?label=Follow&style=social)](https://github.com/Mark44928)
+[![NoNameOS size](https://img.shields.io/github/repo-size/Mark44928/NoNameOS?label=NoNameOS&style=social)](https://github.com/Mark44928/NoNameOS)
+
+</div>
 
 ---
 
 ## About me
 
-I build small, self-contained tools and educational projects, from hobby operating system simulations in C++ to Termux utilities and Android tooling. I enjoy creating software that's easy to understand, useful for everyday tasks, and fun to explore.
-
-## Tech Stack & Interests
-
-- **Languages:** C++, C, Bash, POSIX Shell
-- **Platforms & Tools:** Termux, Android, ADB, Git, Make
-- **Interests:** Systems programming, CLI tools, OS simulation, Android tooling, device optimization, single-file projects
+I'm a tinkerer at heart, focused on **C++ systems programming**, **Termux**, and **Android tooling**. My work leans toward self-contained, educational projects — hobby operating system simulations, CLI utilities, and practical Android tweaks. Everything is written with readability and fun in mind, and when something can live in a single file, I'll usually make it a single file.
 
 ---
 
-## GitHub Stats
+## Tech stack & interests
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark44928&show_icons=true&count_private=true&theme=modern)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark44928&layout=compact&theme=modern)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mark44928&theme=modern)
-
----
-
-## Featured Projects
-
-### 🚀 NoNameOS
-**Pure C++ hobby operating system simulation**
-
-https://github.com/Mark44928/NoNameOS
-
-An educational single-file OS simulation featuring an interactive shell, virtual filesystem, built-in utilities, and games. Designed for learning systems programming concepts in C++.
+| Area | Details |
+|------|---------|
+| **Languages** | C++, C, Bash, POSIX Shell |
+| **Platforms & tools** | Termux, Android, ADB, Git, Make |
+| **Interests** | Systems programming, CLI tools, OS simulation, Android tooling, device optimization, single-file projects |
 
 ---
 
-### 📱 android12-fastfetch
-**Fastfetch configuration for Android 12 & Termux**
+## Featured projects
 
-https://github.com/Mark44928/android12-fastfetch
+### 🖥️ NoNameOS — Pure C++ hobby OS simulation
+> [View repository](https://github.com/Mark44928/NoNameOS) · C++ · GPL-3.0
 
-A polished Fastfetch configuration designed to blend naturally with Android 12 and Termux desktop environments such as XFCE, MATE, LXQt, etc.
+An educational, dependency-free OS simulation in a single C++ source file — complete with an interactive shell, a virtual filesystem, built-in utilities, and games.
+
+### 📱 android12-fastfetch — Fastfetch config for Android 12 & Termux
+> [View repository](https://github.com/Mark44928/android12-fastfetch)
+
+A polished Fastfetch configuration designed to blend naturally with Android 12 and native X11 Termux desktops such as XFCE, MATE, and LXQt.
+
+### 🧹 Anti-bloatware for rooted Android TV — Reclaim 1.9 GB+ storage
+> [View repository](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted) · MIT
+
+A curated list of ADB commands to safely remove bloatware on rooted Android 9+ TV sticks and boxes — freeing over 1.9 GB of storage and 200 MB of RAM, optimized for no-mic remotes.
+
+### 🔔 Android9-audios — 217 stock Android 9 (Pie) sounds
+> [View repository](https://github.com/Mark44928/Android9-audios) · MIT
+
+Ringtones, alarms, notifications, and UI sounds in `.ogg` format — restore defaults after flashing a custom ROM, or reuse them as development audio assets.
 
 ---
 
-### 🧹 Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted
-**Curated ADB commands for rooted Android TV devices**
+## GitHub stats
 
-https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark44928&show_icons=true&count_private=true&theme=modern)
 
-A collection of practical ADB commands for safely removing unnecessary system apps to free storage, improve responsiveness, and keep Android TV devices lightweight.
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark44928&layout=compact&theme=modern)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Mark44928&theme=modern)
 
 ---
 
@@ -66,7 +69,7 @@ A collection of practical ADB commands for safely removing unnecessary system ap
 
 ---
 
-## Fun Facts
+## Fun facts
 
 - 💻 Most projects are intentionally small and easy to read.
 - 📄 Single-file programs are a favorite whenever practical.
