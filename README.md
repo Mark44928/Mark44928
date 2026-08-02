@@ -58,8 +58,8 @@ A complete OS simulation in a single **240 KB C++ file**. Features an interactiv
 **Surgical ADB commands** to strip bloatware from rooted Android 9+ TV devices.
 
 **Results from testing:** 1.9 GB storage freed + 200 MB RAM recovered. (Your results may vary.)
-
-[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/Anti-bloatware-for-Android-TV)
+> *But the real repo name was long.*
+[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted)
 
 ---
 
