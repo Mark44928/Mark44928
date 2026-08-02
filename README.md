@@ -18,11 +18,14 @@ A dependency-free OS simulation in a single 240 KB C++ file — interactive shel
 <img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20260524-150528~2.png" width="520" alt="NoNameOS screenshot" />
 
 But that screenshot is from outdated NoNameOS version.
+### 📦 Easy-Termux-Package-Manager · MIT
+Gum-powered interactive package manager for Termux. 26 menu options, themes, backup/restore, pin/hold, doctor mode — never touch raw apt/pkg syntax again. [View repo](https://github.com/Mark44928/Easy-Termux-Package-Manager)
+
 ### 📱 android12-fastfetch
 A fastfetch configuration tuned for Android 12 and native X11 Termux desktops — XFCE, MATE, and LXQt. [View repo](https://github.com/Mark44928/android12-fastfetch)
 
 ### 🧹 Anti-bloatware for Android TV · MIT
-ADB commands to remove bloatware on rooted Android 9+ TV devices. Freed 1.9 GB of storage and 200 MB of RAM on my own box — your mileage varies. [View repo](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted)
+ADB commands to remove bloatware on rooted Android 9+ TV devices. Freed 1.9 GB of storage and 200 MB of RAM on my own box — your mileage varies. [View repo](https://github.com/Mark44928/Anti-bloatware-for-Android-TV)
 
 ### 🔔 Android9-audios · MIT
 The 217 stock Android 9 (Pie) sounds, packaged as a single 7z archive (~8.5 MB) for restoring after a custom ROM. [View repo](https://github.com/Mark44928/Android9-audios)
