@@ -1,63 +1,110 @@
 <div align="center">
 
-# 🐧 Mark44928 🐧
+# 🐧 Mark44928
 
-Systems C++ and Android tooling, built in Termux.
+**Systems engineer crafting lightweight, dependency-free tools for Termux and Android**
+
+[![GitHub followers](https://img.shields.io/github/followers/Mark44928?style=social)](https://github.com/Mark44928)
+[![Email](https://img.shields.io/badge/Email-marklarencecoyoca%40gmail.com-blue?style=flat)](mailto:marklarencecoyoca@gmail.com)
 
 </div>
 
-> **Now:** tuning the android12-fastfetch config and chipping away at NoNameOS.
+---
+
+## 🎯 What I'm Building
+
+Currently focused on **systems-level tooling** that prioritizes elegance and efficiency:
+- **NoNameOS** — expanding the OS simulation framework
+- **android12-fastfetch** — perfecting the desktop environment configuration
 
 ---
 
-## Featured projects
+## 📚 Featured Projects
 
-### 🖥️ NoNameOS · GPL-3.0
-A dependency-free OS simulation in a single 240 KB C++ file — interactive shell, virtual filesystem, built-in utilities, and games. [View repo](https://github.com/Mark44928/NoNameOS)
+### 🖥️ **NoNameOS** · GPL-3.0
+A complete OS simulation in a single **240 KB C++ file**. Features an interactive shell, virtual filesystem, built-in utilities, and games—all with zero external dependencies.
+
+**Why it stands out:** Single-file architecture, self-contained complexity, educational value.
+
+[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/NoNameOS)
 
 <img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20260524-150528~2.png" width="520" alt="NoNameOS screenshot" />
 
-But that screenshot is from outdated NoNameOS version.
-### 📦 Easy-Termux-Package-Manager · MIT
-Gum-powered interactive package manager for Termux. 26 menu options, themes, backup/restore, pin/hold, doctor mode — never touch raw apt/pkg syntax again. [View repo](https://github.com/Mark44928/Easy-Termux-Package-Manager)
-
-### 📱 android12-fastfetch
-A fastfetch configuration tuned for Android 12 and native X11 Termux desktops — XFCE, MATE, and LXQt. [View repo](https://github.com/Mark44928/android12-fastfetch)
-
-### 🧹 Anti-bloatware for Android TV · MIT
-ADB commands to remove bloatware on rooted Android 9+ TV devices. Freed 1.9 GB of storage and 200 MB of RAM on my own box — your mileage varies. [View repo](https://github.com/Mark44928/Anti-bloatware-for-Android-TV)
-
-### 🔔 Android9-audios · MIT
-The 217 stock Android 9 (Pie) sounds, packaged as a single 7z archive (~8.5 MB) for restoring after a custom ROM. [View repo](https://github.com/Mark44928/Android9-audios)
+> *Note: Screenshot from an earlier version; current build is more feature-rich.*
 
 ---
 
-## Stack
+### 📦 **Easy-Termux-Package-Manager** · MIT
+**Gum-powered interactive package manager** for Termux—replacing raw `apt`/`pkg` commands entirely.
 
-| Area | Details |
-|------|---------|
+**Features:** 26 menu options, themes, automated backup/restore, pin/hold packages, doctor mode for diagnostics.
+
+**Impact:** Turns package management into a streamlined, foolproof workflow.
+
+[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
+
+---
+
+### 📱 **android12-fastfetch** · MIT
+**Fastfetch configuration** optimized for Android 12 and native X11 Termux desktops (XFCE, MATE, LXQt).
+
+**Use case:** Drop-in config for beautiful, consistent system information display across desktop environments.
+
+[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/android12-fastfetch)
+
+---
+
+### 🧹 **Anti-bloatware for Android TV** · MIT
+**Surgical ADB commands** to strip bloatware from rooted Android 9+ TV devices.
+
+**Results from testing:** 1.9 GB storage freed + 200 MB RAM recovered. (Your results may vary.)
+
+[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/Anti-bloatware-for-Android-TV)
+
+---
+
+### 🔔 **Android9-audios** · MIT
+**All 217 stock Android 9 (Pie) system sounds** packaged as a single, portable 7z archive (~8.5 MB).
+
+**Perfect for:** Custom ROM users who want to restore the original audio ecosystem without bloat.
+
+[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/Android9-audios)
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Details |
+|----------|---------|
 | **Languages** | C++, C, Bash / POSIX shell |
-| **Platforms & tools** | Termux, Android, ADB, Git, Make |
-| **Interests** | Systems, CLI tools, OS simulation, Android tooling |
+| **Platforms** | Termux, Android, Linux |
+| **Tools & APIs** | Git, Make, ADB, GCC/Clang |
+| **Focus Areas** | Systems programming, CLI tools, OS simulation, Android tooling |
 
 ---
 
-## Working style
+## 💡 Philosophy
 
-- Single-file and dependency-free when it makes sense.
-- Small repos on purpose — easy to read, fun to explore.
-- A bug report with clear reproduction steps goes straight to the top of the queue.
+- **Dependency-free when possible** — fewer moving parts = fewer bugs and easier maintenance.
+- **Small, focused repos** — intentionally sized for readability and exploration.
+- **Bug reports with steps** — clear reproduction = immediate priority.
+- **Elegant solutions** — prefer thoughtful design over brute-force complexity.
 
 ---
 
-## Elsewhere
+## 📖 Quick Links
 
-GitHub [@Mark44928](https://github.com/Mark44928) · Email [marklarencecoyoca@gmail.com](mailto:marklarencecoyoca@gmail.com)
+| Link | Purpose |
+|------|---------|
+| **[GitHub Profile](https://github.com/Mark44928)** | All repositories and activity |
+| **[Email](mailto:marklarencecoyoca@gmail.com)** | Direct contact |
 
 ---
 
 <div align="center">
 
-**Mark44928** · C++ · Termux · Android
+**Mark44928** · C++ · Termux · Android · Systems Programming
+
+*Building tools that respect your time and system resources.*
 
 </div>
