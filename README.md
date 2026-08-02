@@ -59,6 +59,7 @@ A complete OS simulation in a single **240 KB C++ file**. Features an interactiv
 
 **Results from testing:** 1.9 GB storage freed + 200 MB RAM recovered. (Your results may vary.)
 > *But the real repo name was long.*
+
 [![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted)
 
 ---
