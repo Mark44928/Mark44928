@@ -19,7 +19,12 @@ Currently focused on **systems-level tooling** that prioritizes elegance and eff
 - **android12-fastfetch** — perfecting the desktop environment configuration
 
 ---
-
+## 🔥 GitHub Steak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mark44928&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mark44928&layout=pie&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Mark44928&layout=pie&langs_count=8&theme=dark)
+---
 ## 📚 Featured Projects
 
 ### 🖥️ **NoNameOS** · GPL-3.0
