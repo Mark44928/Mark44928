@@ -1,5 +1,6 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Account!;I+use+Termux+btw)](https://git.io/typing-svg)
 # 🐧 Mark44928
 
 **Systems engineer crafting lightweight, dependency-free tools for Termux and Android**
