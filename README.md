@@ -25,7 +25,7 @@ Currently focused on **systems-level tooling** that prioritizes elegance and eff
 ## 📚 Featured Projects
 
 ### 🖥️ **NoNameOS** · GPL-3.0
-A complete OS simulation in a single **240 KB C++ file**. Features an interactive shell, virtual filesystem, built-in utilities, and games—all with zero external dependencies.
+A complete OS simulation in a single **C++17 file**. Features an interactive shell, virtual filesystem, built-in utilities, and games—all with zero external dependencies.
 
 **Why it stands out:** Single-file architecture, self-contained complexity, educational value.
 
