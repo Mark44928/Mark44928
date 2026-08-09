@@ -38,7 +38,7 @@ A complete OS simulation in a single **C++17 file**. Features an interactive she
 ---
 
 ### 📦 **Easy-Termux-Package-Manager** · MIT
-**Gum-powered interactive package manager** for Termux—replacing raw `apt`/`pkg` commands entirely.
+**Gum-powered interactive package manager** for Termux—replacing raw `apt`/`pkg` commands ~entirely~.
 
 **Features:** 26 menu options, themes, automated backup/restore, pin/hold packages, doctor mode for diagnostics.
 
