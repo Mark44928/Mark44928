@@ -1,4 +1,9 @@
 <div align="center">
+<img src="./629b7b3e75cd817694c3235.png" width="200" alt="My photo">
+  
+*Say hi to Octocat!*
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Account!;I+use+Termux+btw)](https://git.io/typing-svg)
 # 🐧 Hi, I'm Mark44928
