@@ -98,7 +98,6 @@ A complete OS simulation in a single **C++17 file**. Features an interactive she
 - **Bug reports with steps** — clear reproduction = immediate priority.
 - **Elegant solutions** — prefer thoughtful design over brute-force complexity.
 - **No reduntant** — If there's a app but there's a app with same purpose, remove the reduntant one.
-- 
 ---
 
 ## 📖 Quick Links
