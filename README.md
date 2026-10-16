@@ -99,14 +99,14 @@ A complete OS simulation in a single **C++17 file**. Features an interactive she
 | **Focus Areas** | Systems programming, CLI tools, OS simulation, Android tooling |
 
 ---
+## 💡 Engineering Philosophy
 
-## 💡 Philosophy
-
-- **Dependency-free when possible** — fewer moving parts = fewer bugs and easier maintenance.
-- **Small, focused repos** — intentionally sized for readability and exploration.
-- **Bug reports with steps** — clear reproduction = immediate priority.
-- **Elegant solutions** — prefer thoughtful design over brute-force complexity.
-- **No reduntant** — If there's a app but there's a app with same purpose, remove the reduntant one.
+- **Native first** — Prefer solutions that work directly in Termux and Android.
+- **Lean by design** — Keep dependencies, resource usage, and setup friction low.
+- **Practical tooling** — Build utilities that solve real problems.
+- **Readable code** — Favor straightforward implementations over needless complexity.
+- **No redundant tools** — Avoid maintaining multiple utilities that serve the same purpose without a clear benefit.
+- **Reproducible bugs** — Clear steps to reproduce make fixes easier.
 ---
 
 ## 📖 Quick Links
