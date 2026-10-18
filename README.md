@@ -37,6 +37,16 @@ Currently focused on **systems-level tooling** that prioritizes elegance and eff
 ---
 ## 📚 Featured Projects
 
+### 🎮 **Grub Blasters**
+**Worms-style turn-based artillery** — the entire game lives in a single dependency-free HTML file. 2–4 teams blast each other across procedurally generated, fully destructible terrain with 21 weapons (bazooka to banana bomb, mole bomb and beyond), a fuel-limited jetpack, floating islands, CPU opponents, and hot-seat multiplayer.
+
+**Why it stands out:** no dependencies, no build step — one file opens and plays in any modern browser, desktop or phone.
+
+[![Play Now](https://img.shields.io/badge/Play%20Now-GitHub%20Pages-blue?style=flat&logo=githubpages)](https://mark44928.github.io/GrubBlastersHTML/)
+[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/GrubBlastersHTML)
+
+---
+
 ### 🖥️ **NoNameOS** · GPL-3.0
 A complete OS simulation in a single **C++17 file**. Features an interactive shell, virtual filesystem, built-in utilities, and games—all with zero external dependencies.
 
