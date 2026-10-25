@@ -47,6 +47,27 @@ Currently focused on **systems-level tooling** that prioritizes elegance and eff
 
 ---
 
+### 🔢 **CalculaHTML** · MIT
+**A feature-rich, visually rich modern HTML calculator** with 14 themes (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula, and more). Scientific functions, memory registers, history tape, keyboard shortcuts, and full responsiveness — all in a single dependency-free page.
+
+**Live site:** https://mark44928.github.io/CalculaHTML/
+
+**Why it stands out:** Zero dependencies, pure HTML/CSS/JS, theme customization with localStorage persistence.
+
+[![Play Now](https://img.shields.io/badge/Play%20Now-GitHub%20Pages-blue?style=flat&logo=githubpages)](https://mark44928.github.io/CalculaHTML/)
+[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/CalculaHTML)
+
+---
+
+### 🐍 **SnakTUI** · MIT
+**A modern, visually stunning Snake game for your terminal** built with Python + Textual. Neon gradients, particle bursts, combo multipliers (up to x5), power-ups (Speed, Slow, Ghost), special golden apples, five themes, three difficulties, and a persistent local leaderboard — all in pure Unicode blocks.
+
+**Why it stands out:** Terminal-native TUI with cinematic visual effects (glow, screen shake, floating score popups), responsive layout that adapts to terminal size.
+
+[![View repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=flat&logo=github)](https://github.com/Mark44928/SnakTUI)
+
+---
+
 ### 🖥️ **NoNameOS** · GPL-3.0
 A complete OS simulation in a single **C++17 file**. Features an interactive shell, virtual filesystem, built-in utilities, and games—all with zero external dependencies.
 
