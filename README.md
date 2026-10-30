@@ -169,6 +169,13 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ---
 
+### 🧮 Plusalator · MIT
+**Fancy interactive C++17 calculator REPL for Termux** — standard library only, single binary. Qalculate-flavored engine: postfix percent (`%`), right-assoc `^` (`-2^2=-4`), implicit multiplication, user functions with depth-capped recursion, and fuzz-gated so it never crashes. Ghost autosuggest, transient prompt with `⟨ plusa ⟩ ➤` ornament, and truecolor themed banners (`greenit`, `ocean`, `ember`, `sakura`, `mono`).
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark44928/Plusalator)
+
+---
+
 ## 🧪 More From The Lab
 
 <details>
