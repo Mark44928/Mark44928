@@ -11,7 +11,7 @@
 </a>
 
 **I build lightweight, dependency-free software for Termux, Android, and the terminal.**
-<br>
+<br />
 *If it needs a 400 MB runtime, it probably doesn't need to exist.*
 
 <p>
@@ -77,11 +77,11 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7" alt="Top languages" />
 
-<br><br>
+<br /><br />
 
 <img src="https://github-trophies.vercel.app/?username=Mark44928&theme=tokyonight&no-frame=true&no-bg=true&column=6&row=1&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
-<br>
+<br />
 
 <a href="https://github.com/Mark44928">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mark44928&theme=tokyonight" alt="GitHub profile summary" />
@@ -172,9 +172,10 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ## 🧪 More From The Lab
 
 <details>
+
 <summary><b>Click to expand the rest of the toolbox</b></summary>
 
-<br>
+<br />
 
 | Project | What it does |
 | :--- | :--- |
