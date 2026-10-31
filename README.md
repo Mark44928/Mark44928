@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=210&section=header&text=Mark44928&fontSize=64&fontColor=7aa2f7&animation=twinkling&fontAlignY=34&desc=Systems%20%E2%80%A2%20Termux%20%E2%80%A2%20Android&descAlignY=54&descSize=18" width="100%" alt="Mark44928" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1F17,50:122A1F,100:7BD88F&height=210&section=header&text=Mark44928&fontSize=64&fontColor=7BD88F&animation=twinkling&fontAlignY=34&desc=Systems%20%E2%80%A2%20Termux%20%E2%80%A2%20Android&descAlignY=54&descSize=18" width="100%" alt="Mark44928" />
 
 <img src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/629b7b3e7c5cd817694c3235.png" width="150" alt="Octocat" />
 
 # Hi, I'm Markzz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=7AA2F7&center=true&vCenter=true&width=760&lines=Systems+engineer+crafting+tiny%2C+dependency-free+tools;Termux+power+user+%E2%80%94+I+use+Termux+btw;Single-file+games%2C+OS+simulations%2C+Android+tooling;Small+binaries.+Zero+bloat.+Maximum+control." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=7BD88F&center=true&vCenter=true&width=760&lines=Systems+engineer+crafting+tiny%2C+dependency-free+tools;Termux+power+user+%E2%80%94+I+use+Termux+btw;Single-file+games%2C+OS+simulations%2C+Android+tooling;Small+binaries.+Zero+bloat.+Maximum+control." alt="Typing SVG" />
 </a>
 
 **I build lightweight, dependency-free software for Termux, Android, and the terminal.**
@@ -15,9 +15,9 @@
 *If it needs a 400 MB runtime, it probably doesn't need to exist.*
 
 <p>
-  <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&logo=github&label=Followers&color=7aa2f7" alt="Followers"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMark44928&query=%24.public_repos&label=Repos&color=bb9af7&style=for-the-badge&logo=github" alt="Repos">
-  <img src="https://komarev.com/ghpvc/?username=Mark44928&label=VISITORS&color=7aa2f7&style=for-the-badge" alt="Profile views">
+  <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&logo=github&label=Followers&color=7BD88F" alt="Followers"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMark44928&query=%24.public_repos&label=Repos&color=63C9A8&style=for-the-badge&logo=github" alt="Repos">
+  <img src="https://komarev.com/ghpvc/?username=Mark44928&label=VISITORS&color=7BD88F&style=for-the-badge" alt="Profile views">
   <a href="mailto:marklarencecoyoca@gmail.com"><img src="https://img.shields.io/badge/Email-marklarencecoyoca%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -69,22 +69,22 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <div align="center">
 
 <a href="https://github.com/Mark44928">
-  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Mark44928&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="GitHub stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Mark44928&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub streak" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Mark44928&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&icon_color=63C9A8&text_color=C9E4CE" alt="GitHub stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Mark44928&theme=transparent&hide_border=true&background=0C1F17&ring=7BD88F&fire=63C9A8&currStreakLabel=7BD88F&sideLabels=C9E4CE&dates=78997F" alt="GitHub streak" />
 </a>
 
 <br>
 
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&text_color=C9E4CE" alt="Top languages" />
 
 <br /><br />
 
-<img src="https://github-trophies.vercel.app/?username=Mark44928&theme=tokyonight&no-frame=true&no-bg=true&column=6&row=1&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=Mark44928&theme=onedark&no-frame=true&no-bg=true&column=6&row=1&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 <br />
 
 <a href="https://github.com/Mark44928">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mark44928&theme=tokyonight" alt="GitHub profile summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mark44928&theme=transparent" alt="GitHub profile summary" />
 </a>
 
 </div>
@@ -98,15 +98,15 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 > No dependencies. No build step. One file, any modern browser, desktop or phone.
 
-[![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7aa2f7?style=for-the-badge&logo=githubpages&logoColor=white)](https://mark44928.github.io/GrubBlastersHTML/)
-[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark44928/GrubBlastersHTML)
+[![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7BD88F?style=for-the-badge&logo=githubpages&logoColor=0C1F17)](https://mark44928.github.io/GrubBlastersHTML/)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/GrubBlastersHTML)
 
 ---
 
 ### 📦 Easy-Termux-Package-Manager · MIT
 **Gum-powered interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 26 menu options, themes, automated backup/restore, package pin/hold, and a doctor mode for diagnostics.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
 
 ---
 
@@ -117,7 +117,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 > *Screenshot from an earlier build — the current version is far more feature-rich.*
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark44928/NoNameOS)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/NoNameOS)
 
 ---
 
@@ -126,22 +126,22 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 > Cinematic effects — glow, screen shake, floating score popups — with a layout that adapts to your terminal.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark44928/SnakTUI)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/SnakTUI)
 
 ---
 
 ### 🔢 CalculaHTML · MIT
 **A feature-rich, visually rich modern HTML calculator** with 14 themes (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape, keyboard shortcuts, and full responsiveness — all in a single dependency-free page.
 
-[![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7aa2f7?style=for-the-badge&logo=githubpages&logoColor=white)](https://mark44928.github.io/CalculaHTML/)
-[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark44928/CalculaHTML)
+[![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7BD88F?style=for-the-badge&logo=githubpages&logoColor=0C1F17)](https://mark44928.github.io/CalculaHTML/)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/CalculaHTML)
 
 ---
 
 ### 🧮 Plusalator · MIT
 **Fancy interactive C++17 calculator REPL for Termux** — standard library only, single binary. Qalculate-flavored engine: postfix percent (`%`), right-assoc `^` (`-2^2=-4`), implicit multiplication, user functions with depth-capped recursion, and fuzz-gated so it never crashes. Ghost autosuggest, transient prompt with `⟨ plusa ⟩ ➤` ornament, and truecolor themed banners (`greenit`, `ocean`, `ember`, `sakura`, `mono`).
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark44928/Plusalator)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Plusalator)
 
 ---
 
@@ -216,7 +216,7 @@ Clear steps to reproduce are worth more than a vague bug report — and make fix
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random developer quote" />
 
 </div>
 
@@ -226,8 +226,8 @@ Clear steps to reproduce are worth more than a vague bug report — and make fix
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mark44928-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark44928)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marklarencecoyoca@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mark44928-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-63C9A8?style=for-the-badge&logo=gmail&logoColor=0C1F17)](mailto:marklarencecoyoca@gmail.com)
 
 <br>
 
@@ -235,7 +235,7 @@ Clear steps to reproduce are worth more than a vague bug report — and make fix
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=140&section=footer&text=Small%20binaries.%20Zero%20bloat.&fontSize=22&fontColor=7aa2f7&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7BD88F,50:122A1F,100:0C1F17&height=140&section=footer&text=Small%20binaries.%20Zero%20bloat.&fontSize=22&fontColor=7BD88F&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
 
 <div align="center">
 
