@@ -160,8 +160,6 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 | **[Android9-audios](https://github.com/Mark44928/Android9-audios)** | All **217** stock Android 9 (Pie) system sounds in one portable ~8.5 MB archive. Restore the original audio ecosystem on custom ROMs. |
 | **[Termux-Junk-Cleaner-2.0](https://github.com/Mark44928/Termux-Junk-Cleaner-2.0)** | Maintained fork of an abandoned cleaner — interactive `fzf` menu, themed loading bars, and a cleanup summary. |
 | **[Greenit](https://github.com/Mark44928/Greenit)** | Green-injected terminal, Vim, and app theme family (dark + light) — generated from a single `palette.json` for Termux, Kitty, Alacritty, Ghostty, WezTerm, iTerm2, Windows Terminal, bat, fzf, dircolors, starship, tmux, and btop. |
-| **[neoneofetch](https://github.com/Mark44928/neoneofetch)** | A command-line system information tool written in pure Bash 3.2+. |
-| **[hw_android](https://github.com/Mark44928/hw_android)** | An AI-assisted Android port of Hedgewars. |
 
 </details>
 
