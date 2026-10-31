@@ -93,37 +93,6 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/Mark44928/GrubBlastersHTML">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Mark44928&repo=GrubBlastersHTML&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="Grub Blasters" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/Mark44928/Easy-Termux-Package-Manager">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Mark44928&repo=Easy-Termux-Package-Manager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="Easy-Termux-Package-Manager" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/Mark44928/NoNameOS">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Mark44928&repo=NoNameOS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="NoNameOS" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/Mark44928/SnakTUI">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Mark44928&repo=SnakTUI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="SnakTUI" />
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
 ### 🎮 Grub Blasters
 **Worms-style turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 21 weapons (bazooka to banana bomb), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, and hot-seat multiplayer.
 
