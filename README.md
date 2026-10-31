@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=210&section=header&text=Mark44928&fontSize=64&fontColor=7aa2f7&animation=twinkling&fontAlignY=34&desc=Systems%20%E2%80%A2%20Termux%20%E2%80%A2%20Android&descAlignY=54&descSize=18" width="100%" alt="Mark44928" />
 
-<img src="./629b7b3e7c5cd817694c3235.png" width="150" alt="Octocat" />
+<img src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/629b7b3e7c5cd817694c3235.png" width="150" alt="Octocat" />
 
 # Hi, I'm Markzz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
 
@@ -69,13 +69,13 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <div align="center">
 
 <a href="https://github.com/Mark44928">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mark44928&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Mark44928&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="GitHub stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=Mark44928&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub streak" />
 </a>
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7" alt="Top languages" />
 
 <br /><br />
 
@@ -99,24 +99,24 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <tr>
 <td width="50%">
 <a href="https://github.com/Mark44928/GrubBlastersHTML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mark44928&repo=GrubBlastersHTML&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="Grub Blasters" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Mark44928&repo=GrubBlastersHTML&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="Grub Blasters" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/Mark44928/Easy-Termux-Package-Manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mark44928&repo=Easy-Termux-Package-Manager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="Easy-Termux-Package-Manager" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Mark44928&repo=Easy-Termux-Package-Manager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="Easy-Termux-Package-Manager" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/Mark44928/NoNameOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mark44928&repo=NoNameOS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="NoNameOS" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Mark44928&repo=NoNameOS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="NoNameOS" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/Mark44928/SnakTUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mark44928&repo=SnakTUI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="SnakTUI" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Mark44928&repo=SnakTUI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="SnakTUI" />
 </a>
 </td>
 </tr>
