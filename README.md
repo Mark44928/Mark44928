@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1F17,50:122A1F,100:7BD88F&height=210&section=header&text=Mark44928&fontSize=64&fontColor=7BD88F&animation=twinkling&fontAlignY=34&desc=Systems%20%E2%80%A2%20Termux%20%E2%80%A2%20Android&descAlignY=54&descSize=18" width="100%" alt="Mark44928" />
 
-<img src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/629b7b3e7c5cd817694c3235.png" width="150" alt="Octocat" />
+<img src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/avatar.png" width="150" alt="Octocat" />
 
 # Hi, I'm Markzz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
 
@@ -38,6 +38,23 @@ mark@termux:~$ uptime
 up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch.
 ```
 
+---
+
+## 📍 Now
+
+- **pkg-manager v5.2** — live package-info preview panes, a not-installed-only
+  install list with a pre-flight batch summary, uninstall's own finder, ESC that
+  cancels everywhere, and a numbered text mode that takes over (with an
+  explanation) if fzf ever breaks.
+- **Every palette checked against its source** — Nord, Dracula, Catppuccin,
+  Tokyo Night, Gruvbox, One Dark, Solarized, Everforest and Rosé Pine are now
+  hex-verified against the upstream projects, and every titled legacy theme
+  (blue/green/teal…) actually shows the color it names.
+- NoNameOS gained real `sha256sum`/`stat` commands plus a piped-REPL smoke
+  suite, Plusalator gained memory slots, angle units and output radix modes,
+  and Android9-audios ships per-file checksums with a verify script.
+- **Still** refusing to install a 400 MB runtime.
+
 - 🔭 **Building** — expanding **NoNameOS**, a single-file C++17 OS simulation
 - 🌱 **Exploring** — low-level Android internals, TUI design, and game loops
 - 🧠 **Belief** — the best dependency is the one you never installed
@@ -69,13 +86,13 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <div align="center">
 
 <a href="https://github.com/Mark44928">
-  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Mark44928&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&icon_color=63C9A8&text_color=C9E4CE" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mark44928&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&icon_color=63C9A8&text_color=C9E4CE" alt="GitHub stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=Mark44928&theme=transparent&hide_border=true&background=0C1F17&ring=7BD88F&fire=63C9A8&currStreakLabel=7BD88F&sideLabels=C9E4CE&dates=78997F" alt="GitHub streak" />
 </a>
 
 <br>
 
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&text_color=C9E4CE" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&text_color=C9E4CE" alt="Top languages" />
 
 <br /><br />
 
@@ -94,7 +111,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ## 🚀 Featured Projects
 
 ### 🎮 Grub Blasters
-**Worms-style turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 21 weapons (bazooka to banana bomb), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, and hot-seat multiplayer.
+**Worms-style turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 60 weapons (bazooka to banana bomb), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, and hot-seat multiplayer.
 
 > No dependencies. No build step. One file, any modern browser, desktop or phone.
 
@@ -104,7 +121,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 📦 Easy-Termux-Package-Manager · MIT
-**Gum-powered interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 26 menu options, themes, automated backup/restore, package pin/hold, and a doctor mode for diagnostics.
+**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 59 menu entries, 16 themes, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`) — 175 hermetic tests.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
 
@@ -122,7 +139,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🐍 SnakTUI · MIT
-**A modern, visually stunning Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost), golden apples, five themes, three difficulties, and a persistent local leaderboard, all in pure Unicode blocks.
+**A modern, visually stunning Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost, Frenzy, Magnet), golden apples, five themes, three difficulties, and a persistent local leaderboard, all in pure Unicode blocks.
 
 > Cinematic effects — glow, screen shake, floating score popups — with a layout that adapts to your terminal.
 
@@ -131,7 +148,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🔢 CalculaHTML · MIT
-**A feature-rich, visually rich modern HTML calculator** with 14 themes (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape, keyboard shortcuts, and full responsiveness — all in a single dependency-free page.
+**A feature-rich, visually rich modern HTML calculator** with 15 themes plus a System mode (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape with CSV export, a `?` shortcut overlay, keyboard shortcuts, and full responsiveness — all in a single dependency-free page.
 
 [![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7BD88F?style=for-the-badge&logo=githubpages&logoColor=0C1F17)](https://mark44928.github.io/CalculaHTML/)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/CalculaHTML)
@@ -139,7 +156,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🧮 Plusalator · MIT
-**Fancy interactive C++17 calculator REPL for Termux** — standard library only, single binary. Qalculate-flavored engine: postfix percent (`%`), right-assoc `^` (`-2^2=-4`), implicit multiplication, user functions with depth-capped recursion, and fuzz-gated so it never crashes. Ghost autosuggest, transient prompt with `⟨ plusa ⟩ ➤` ornament, and truecolor themed banners (`greenit`, `ocean`, `ember`, `sakura`, `mono`).
+**Fancy interactive C++17 calculator REPL for Termux** — standard library only, single binary. Qalculate-flavored engine: postfix percent (`%`), right-assoc `^` (`-2^2=-4`), implicit multiplication, user functions with depth-capped recursion, and fuzz-gated so it never crashes. Ghost autosuggest, transient prompt with `⟨ plusa ⟩ ➤` ornament, 18 truecolor palettes, memory slots (`ms`/`mr`/`m+`), angle units (`deg`/`rad`/`grad`), and output radix modes (`mode hex|bin|sci`) — 114 assertions in the test gate.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Plusalator)
 
@@ -156,10 +173,10 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 | Project | What it does |
 | :--- | :--- |
 | **[android12-fastfetch](https://github.com/Mark44928/android12-fastfetch)** | Drop-in Fastfetch config for Android 12 + native X11 Termux desktops (XFCE, MATE, LXQt). Beautiful, consistent system info. |
-| **[Anti-bloatware for Android TV](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted)** | Surgical ADB commands to strip bloatware from rooted Android 9+ TV sticks and boxes. **1.9 GB storage + 200 MB RAM** reclaimed in testing. |
-| **[Android9-audios](https://github.com/Mark44928/Android9-audios)** | All **217** stock Android 9 (Pie) system sounds in one portable ~8.5 MB archive. Restore the original audio ecosystem on custom ROMs. |
+| **[Anti-bloatware for Android TV](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted)** | Surgical ADB commands — plus bundled `debloat.sh` / `debloat-safe.sh` / `restore.sh` scripts — to strip bloatware from rooted Android 9+ TV sticks and boxes. Up to ~1.9 GB storage reclaimed, measured on common sticks. |
+| **[Android9-audios](https://github.com/Mark44928/Android9-audios)** | All **217** stock Android 9 (Pie) system sounds in one portable ~8.7 MB archive, with per-file SHA-256 checksums and a one-command extract-and-verify script. Restore the original audio ecosystem on custom ROMs. |
 | **[Termux-Junk-Cleaner-2.0](https://github.com/Mark44928/Termux-Junk-Cleaner-2.0)** | Maintained fork of an abandoned cleaner — interactive `fzf` menu, themed loading bars, and a cleanup summary. |
-| **[Greenit](https://github.com/Mark44928/Greenit)** | Green-injected terminal, Vim, and app theme family (dark + light) — generated from a single `palette.json` for Termux, Kitty, Alacritty, Ghostty, WezTerm, iTerm2, Windows Terminal, bat, fzf, dircolors, starship, tmux, and btop. |
+| **[Greenit](https://github.com/Mark44928/Greenit)** | Green-injected terminal, editor, shell and app theme family (dark + light) — 29 integrations rendered from a single `palette.json`: Termux, Kitty, Alacritty, Ghostty, WezTerm, foot, iTerm2, Windows Terminal, Vim/Neovim, Emacs, Helix, bat, fzf, dircolors, exa/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch and vivid. |
 
 </details>
 
