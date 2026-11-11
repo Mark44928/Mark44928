@@ -42,7 +42,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ## 📍 Now
 
-- **pkg-manager v5.2** — live package-info preview panes, a not-installed-only
+- **pkg-manager v5.3.1** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors
   install list with a pre-flight batch summary, uninstall's own finder, ESC that
   cancels everywhere, and a numbered text mode that takes over (with an
   explanation) if fzf ever breaks.
@@ -121,7 +121,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 📦 Easy-Termux-Package-Manager · MIT
-**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 59 menu entries, 16 themes, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`) — 175 hermetic tests.
+**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 16 themes, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`) — 182 hermetic tests.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
 
