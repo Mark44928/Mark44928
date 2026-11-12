@@ -159,6 +159,13 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ---
 
+### ⚡ Plusafetch · MIT
+**A modular C++23 take on fastfetch for Termux** — fastfetch-style A–Z module registry, zero logo, no network, no exceptions. Android OS/host info from the NDK property service (zero subprocess on the default path), `std::jthread` parallel detection, `std::expected` everywhere, zero-allocation string buffers, single-write output — ~23 ms on a Helio P22. Linux fallback included.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/plusafetch)
+
+---
+
 ## 🧪 More From The Lab
 
 <details>
