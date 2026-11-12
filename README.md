@@ -42,10 +42,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ## 📍 Now
 
-- **pkg-manager v5.3.1** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors
-  install list with a pre-flight batch summary, uninstall's own finder, ESC that
-  cancels everywhere, and a numbered text mode that takes over (with an
-  explanation) if fzf ever breaks.
+- **pkg-manager v5.3.1** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, and a numbered text mode that takes over (with an explanation) if fzf ever breaks.
 - **Every palette checked against its source** — Nord, Dracula, Catppuccin,
   Tokyo Night, Gruvbox, One Dark, Solarized, Everforest and Rosé Pine are now
   hex-verified against the upstream projects, and every titled legacy theme
