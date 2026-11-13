@@ -168,23 +168,31 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ---
 
-## 🧪 More From The Lab
+### 🖥️ android12-fastfetch · MIT
+**Drop-in fastfetch config for Android 12 and native X11 Termux desktops (XFCE, MATE, LXQt).** Beautiful, consistent system information for your terminal — install, run, done.
 
-<details>
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/android12-fastfetch)
 
-<summary><b>Click to expand the rest of the toolbox</b></summary>
+---
 
-<br />
+### 📺 Anti-bloatware for Android TV · MIT
+**Surgical ADB commands — plus bundled `debloat.sh` / `debloat-safe.sh` / `restore.sh` — to strip bloatware from rooted Android 9+ TV sticks and boxes.** Up to ~1.9 GB storage and 200 MB+ RAM reclaimed, measured on common sticks and boxes.
 
-| Project | What it does |
-| :--- | :--- |
-| **[android12-fastfetch](https://github.com/Mark44928/android12-fastfetch)** | Drop-in Fastfetch config for Android 12 + native X11 Termux desktops (XFCE, MATE, LXQt). Beautiful, consistent system info. |
-| **[Anti-bloatware for Android TV](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted)** | Surgical ADB commands — plus bundled `debloat.sh` / `debloat-safe.sh` / `restore.sh` scripts — to strip bloatware from rooted Android 9+ TV sticks and boxes. Up to ~1.9 GB storage reclaimed, measured on common sticks. |
-| **[Android9-audios](https://github.com/Mark44928/Android9-audios)** | All **217** stock Android 9 (Pie) system sounds in one portable ~8.7 MB archive, with per-file SHA-256 checksums and a one-command extract-and-verify script. Restore the original audio ecosystem on custom ROMs. |
-| **[Termux-Junk-Cleaner-2.0](https://github.com/Mark44928/Termux-Junk-Cleaner-2.0)** | Maintained fork of an abandoned cleaner — interactive `fzf` menu, themed loading bars, and a cleanup summary. |
-| **[Greenit](https://github.com/Mark44928/Greenit)** | Green-injected terminal, editor, shell and app theme family (dark + light) — 29 integrations rendered from a single `palette.json`: Termux, Kitty, Alacritty, Ghostty, WezTerm, foot, iTerm2, Windows Terminal, Vim/Neovim, Emacs, Helix, bat, fzf, dircolors, exa/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch and vivid. |
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted)
 
-</details>
+---
+
+### 🔊 Android 9 (Pie) Audios · MIT
+**All 217 stock Android 9 system sounds** — ringtones, alarms, notifications, UI sounds — in one portable ~8.3 MB archive, with per-file SHA-256 checksums and a one-command extract-and-verify script. Perfect for custom ROMs and audio projects.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Android9-audios)
+
+---
+
+### 🟢 Greenit · MIT
+**Green-injected terminal, editor, shell and app theme family (dark + light).** 29 integrations rendered from a single `palette.json` by a tiny stdlib-only Python generator — Termux, Kitty, Alacritty, Ghostty, WezTerm, foot, iTerm2, Windows Terminal, Vim/Neovim, Emacs, Helix, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch and vivid.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Greenit)
 
 ---
 
