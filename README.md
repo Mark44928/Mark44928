@@ -42,6 +42,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ## 📍 Now
 
+- **Plusafetch** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. CI green on clang/gcc/AppleClang.
 - **pkg-manager v5.3.1** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, and a numbered text mode that takes over (with an explanation) if fzf ever breaks.
 - **Every palette checked against its source** — Nord, Dracula, Catppuccin,
   Tokyo Night, Gruvbox, One Dark, Solarized, Everforest and Rosé Pine are now
@@ -108,7 +109,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ## 🚀 Featured Projects
 
 ### 🎮 Grub Blasters
-**Worms-style turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 60 weapons (bazooka to banana bomb), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, and hot-seat multiplayer.
+**Worms-style turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 70 weapons (bazooka to banana bomb), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, and hot-seat multiplayer.
 
 > No dependencies. No build step. One file, any modern browser, desktop or phone.
 
@@ -118,7 +119,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 📦 Easy-Termux-Package-Manager · MIT
-**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 16 themes, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`) — 182 hermetic tests.
+**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 16 themes, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`) — 183 tests.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
 
@@ -162,6 +163,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ### ⚡ Plusafetch · MIT
 **A modular C++23 take on fastfetch for Termux** — fastfetch-style A–Z module registry, zero logo, no network, no exceptions. Android OS/host info from the NDK property service (zero subprocess on the default path), `std::jthread` parallel detection, `std::expected` everywhere, zero-allocation string buffers, single-write output — ~23 ms on a Helio P22. Linux fallback included.
 
+[![CI](https://img.shields.io/github/actions/workflow/status/Mark44928/plusafetch/ci.yml?branch=main&label=CI&logo=github&color=7BD88F&style=for-the-badge)](https://github.com/Mark44928/plusafetch/actions/workflows/ci.yml)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/plusafetch)
 
 ---
