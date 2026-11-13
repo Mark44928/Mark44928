@@ -84,19 +84,15 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <div align="center">
 
 <a href="https://github.com/Mark44928">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mark44928&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&icon_color=63C9A8&text_color=C9E4CE" alt="GitHub stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Mark44928&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&icon_color=63C9A8&text_color=C9E4CE" alt="GitHub stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=Mark44928&theme=transparent&hide_border=true&background=0C1F17&ring=7BD88F&fire=63C9A8&currStreakLabel=7BD88F&sideLabels=C9E4CE&dates=78997F" alt="GitHub streak" />
 </a>
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&text_color=C9E4CE" alt="Top languages" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&text_color=C9E4CE" alt="Top languages" />
 
 <br /><br />
-
-<img src="https://github-trophies.vercel.app/?username=Mark44928&theme=onedark&no-frame=true&no-bg=true&column=6&row=1&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-<br />
 
 <a href="https://github.com/Mark44928">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mark44928&theme=transparent" alt="GitHub profile summary" />
