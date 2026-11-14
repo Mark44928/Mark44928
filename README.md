@@ -165,7 +165,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <br><br>
 
 <a href="https://github.com/Mark44928?tab=repositories">
-  <img width="100%" src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/assets/star-history.svg" alt="Star history — every non-fork repo with stars" />
+  <img width="100%" src="https://api.star-history.com/svg?repos=Mark44928/Easy-Termux-Package-Manager,Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted,Mark44928/NoNameOS,Mark44928/Greenit,Mark44928/SnakTUI,Mark44928/Android9-audios,Mark44928/plusafetch,Mark44928/android12-fastfetch,Mark44928/GrubBlastersHTML,Mark44928/CalculaHTML,Mark44928/termux-backup,Mark44928/Plusalator,Mark44928/Mark44928&type=Date&theme=dark" alt="Star history — every non-fork repo" />
 </a>
 
 </div>
