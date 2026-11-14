@@ -166,7 +166,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ## 🚀 Featured Projects
 
 ### 🎮 Grub Blasters
-**Worms-style turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 70 weapons (bazooka to banana bomb), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, and hot-seat multiplayer.
+**Worms-style turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 71 weapons (bazooka to Boggy B), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, and hot-seat multiplayer.
 
 > No dependencies. No build step. One file, any modern browser, desktop or phone.
 
