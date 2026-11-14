@@ -40,14 +40,73 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ---
 
+## 🚀 Start here
+
+| If you want… | Open |
+|---|---|
+| a terminal that matches your setup | [Greenit](https://github.com/Mark44928/Greenit) · [Plusafetch](https://github.com/Mark44928/Plusafetch) · [android12-fastfetch](https://github.com/Mark44928/android12-fastfetch) |
+| a game for a coffee break | [Grub Blasters](https://github.com/Mark44928/GrubBlastersHTML) · [SnakTUI](https://github.com/Mark44928/SnakTUI) |
+| a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) |
+| less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [Anti-bloatware for Android TV](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted) |
+
+<p align="center"><a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#connect">Connect</a></p>
+
+---
+
+<a id="screens"></a>
+## 📸 Screenshots
+
+<p align="center"><em>Straight from the repos: games, tools, themes and a tiny OS.</em></p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/SnakTUI"><img src="https://raw.githubusercontent.com/Mark44928/SnakTUI/main/docs/game.png" alt="SnakTUI gameplay" width="100%"></a>
+      <br><sub><b>SnakTUI</b> — Textual Snake with 11 themes, combos and power-ups</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/Plusalator"><img src="https://raw.githubusercontent.com/Mark44928/Plusalator/master/docs/screenshot.png" alt="Plusalator REPL" width="100%"></a>
+      <br><sub><b>Plusalator</b> — C++17 calculator REPL: ASCII plots, CSV export, 18 themes</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/CalculaHTML"><img src="https://raw.githubusercontent.com/Mark44928/CalculaHTML/main/assets/preview.svg" alt="CalculaHTML preview" width="100%"></a>
+      <br><sub><b>CalculaHTML</b> — PWA calculator: 15 themes, f(x) graph, base chips</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/Easy-Termux-Package-Manager"><img src="https://raw.githubusercontent.com/Mark44928/Easy-Termux-Package-Manager/master/docs/menu.png" alt="pkg-manager menu" width="100%"></a>
+      <br><sub><b>Easy-Termux-Package-Manager</b> — 57-entry Termux package manager, zero dependencies</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/Plusafetch"><img src="https://raw.githubusercontent.com/Mark44928/Plusafetch/main/docs/screenshot.png" alt="Plusafetch output" width="100%"></a>
+      <br><sub><b>Plusafetch</b> — C++23 Android system fetch — ~23 ms, no subprocess</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/android12-fastfetch"><img src="https://raw.githubusercontent.com/Mark44928/android12-fastfetch/main/docs/fastfetch.png" alt="android12-fastfetch" width="100%"></a>
+      <br><sub><b>android12-fastfetch</b> — Fastfetch config driven by Android properties</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/Greenit"><img src="https://raw.githubusercontent.com/Mark44928/Greenit/master/docs/palette.png" alt="Greenit palette" width="100%"></a>
+      <br><sub><b>Greenit</b> — One palette.json → kitty, ghostty, vim, fish, zellij…</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/NoNameOS"><img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20261113-0633.png" alt="NoNameOS shell" width="100%"></a>
+      <br><sub><b>NoNameOS</b> — Single-file C++17 OS simulation with a real shell</sub>
+    </td>
+  </tr>
+</table>
+
+<a id="now"></a>
 ## 📍 Now
 
 - **Plusafetch** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. CI green on clang/gcc/AppleClang.
 - **pkg-manager v5.3.1** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, and a numbered text mode that takes over (with an explanation) if fzf ever breaks.
-- **Every palette checked against its source** — Nord, Dracula, Catppuccin,
-  Tokyo Night, Gruvbox, One Dark, Solarized, Everforest and Rosé Pine are now
-  hex-verified against the upstream projects, and every titled legacy theme
-  (blue/green/teal…) actually shows the color it names.
+- **Fresh this week** — Plusalator plots any function in ASCII and exports vars/history to CSV; CalculaHTML converts results to hex/bin/oct in one tap; Grub Blasters has a per-device Motion control; SnakTUI shows live palette swatches in Settings; Plusafetch ships four copy-paste skins.
 - NoNameOS gained real `sha256sum`/`stat` commands plus a piped-REPL smoke
   suite, Plusalator gained memory slots, angle units and output radix modes,
   and Android9-audios ships per-file checksums with a verify script.
@@ -60,6 +119,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ---
 
+<a id="stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -102,6 +162,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 ---
 
+<a id="projects"></a>
 ## 🚀 Featured Projects
 
 ### 🎮 Grub Blasters
@@ -247,6 +308,7 @@ Clear steps to reproduce are worth more than a vague bug report — and make fix
 
 ---
 
+<a id="connect"></a>
 ## 🌐 Connect
 
 <div align="center">
