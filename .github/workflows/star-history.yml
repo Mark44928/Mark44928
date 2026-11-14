@@ -1,0 +1,35 @@
+name: Star history
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  chart:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate chart
+        env:
+          GH_TOKEN: ${{ secrets.STAR_HISTORY_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::notice::STAR_HISTORY_TOKEN is not set - skipping. The chart needs a token that can read stargazers for every repo; add a fine-grained read-only PAT as STAR_HISTORY_TOKEN."
+            exit 0
+          fi
+          python3 tools/star-history.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- assets/star-history.svg; then
+            git add assets/star-history.svg
+            git commit -m "chore: refresh star history [skip ci]"
+            git push
+          else
+            echo "chart unchanged"
+          fi
