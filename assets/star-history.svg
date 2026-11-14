@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="380" viewBox="0 0 840 380" role="img" aria-labelledby="t">
+<title id="t">Mark44928 — star history</title>
+<rect width="100%" height="100%" rx="18" fill="#0C1F17"/>
+<text x="54" y="30" font-family="system-ui,sans-serif" font-size="19" font-weight="800" fill="#C9E4CE">Star history · all non-fork repos</text>
+<text x="54" y="47" font-family="system-ui,sans-serif" font-size="11" fill="#78997F">generated from the GitHub API · 10 repos with stars · latest star 2026-11-14</text>
+<line x1="54" y1="336.0" x2="650" y2="336.0" stroke="#1D3A2F" stroke-width="1"/>
+<text x="44" y="340.0" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">0</text>
+<line x1="54" y1="295.7" x2="650" y2="295.7" stroke="#1D3A2F" stroke-width="1"/>
+<text x="44" y="299.7" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">1</text>
+<line x1="54" y1="255.4" x2="650" y2="255.4" stroke="#1D3A2F" stroke-width="1"/>
+<text x="44" y="259.4" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">2</text>
+<line x1="54" y1="215.1" x2="650" y2="215.1" stroke="#1D3A2F" stroke-width="1"/>
+<text x="44" y="219.1" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">3</text>
+<line x1="54" y1="174.9" x2="650" y2="174.9" stroke="#1D3A2F" stroke-width="1"/>
+<text x="44" y="178.9" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">4</text>
+<line x1="54" y1="134.6" x2="650" y2="134.6" stroke="#1D3A2F" stroke-width="1"/>
+<text x="44" y="138.6" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">5</text>
+<line x1="54" y1="94.3" x2="650" y2="94.3" stroke="#1D3A2F" stroke-width="1"/>
+<text x="44" y="98.3" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">6</text>
+<line x1="54" y1="54.0" x2="650" y2="54.0" stroke="#1D3A2F" stroke-width="1"/>
+<text x="44" y="58.0" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">7</text>
+<line x1="54.0" y1="54" x2="54.0" y2="336" stroke="#1D3A2F" stroke-width="1"/>
+<text x="54.0" y="358" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">Jul 2026</text>
+<line x1="203.0" y1="54" x2="203.0" y2="336" stroke="#1D3A2F" stroke-width="1"/>
+<text x="203.0" y="358" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">Aug 2026</text>
+<line x1="352.0" y1="54" x2="352.0" y2="336" stroke="#1D3A2F" stroke-width="1"/>
+<text x="352.0" y="358" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">Sep 2026</text>
+<line x1="501.0" y1="54" x2="501.0" y2="336" stroke="#1D3A2F" stroke-width="1"/>
+<text x="501.0" y="358" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">Oct 2026</text>
+<line x1="650.0" y1="54" x2="650.0" y2="336" stroke="#1D3A2F" stroke-width="1"/>
+<text x="650.0" y="358" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10" fill="#78997F">Nov 2026</text>
+<polyline points="54.0,336.0 180.4,295.7 184.9,255.4 189.5,215.1 216.5,174.9 365.5,134.6 636.5,94.3 636.5,54.0 650.0,54.0" fill="none" stroke="#7BD88F" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="636.5" cy="54.0" r="3" fill="#7BD88F"/>
+<line x1="666" y1="56" x2="692" y2="56" stroke="#7BD88F" stroke-width="3"/>
+<text x="700" y="60" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">Easy-Termux-Package-M… <tspan fill="#78997F">(7)</tspan></text>
+<polyline points="54.0,336.0 54.0,295.7 501.0,255.4 537.1,215.1 595.8,174.9 650.0,174.9" fill="none" stroke="#63C9A8" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="595.8" cy="174.9" r="3" fill="#63C9A8"/>
+<line x1="666" y1="76" x2="692" y2="76" stroke="#63C9A8" stroke-width="3"/>
+<text x="700" y="80" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">Anti-bloatware-list-f… <tspan fill="#78997F">(4)</tspan></text>
+<polyline points="54.0,336.0 586.8,295.7 609.4,255.4 645.5,215.1 650.0,215.1" fill="none" stroke="#4FB3A0" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="645.5" cy="215.1" r="3" fill="#4FB3A0"/>
+<line x1="666" y1="96" x2="692" y2="96" stroke="#4FB3A0" stroke-width="3"/>
+<text x="700" y="100" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">Greenit <tspan fill="#78997F">(3)</tspan></text>
+<polyline points="54.0,336.0 54.0,295.7 216.5,255.4 216.5,215.1 650.0,215.1" fill="none" stroke="#3E9A8C" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="216.5" cy="215.1" r="3" fill="#3E9A8C"/>
+<line x1="666" y1="116" x2="692" y2="116" stroke="#3E9A8C" stroke-width="3"/>
+<text x="700" y="120" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">NoNameOS <tspan fill="#78997F">(3)</tspan></text>
+<polyline points="54.0,336.0 54.0,295.7 401.7,255.4 650.0,255.4" fill="none" stroke="#2F7F74" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="401.7" cy="255.4" r="3" fill="#2F7F74"/>
+<line x1="666" y1="136" x2="692" y2="136" stroke="#2F7F74" stroke-width="3"/>
+<text x="700" y="140" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">Android9-audios <tspan fill="#78997F">(2)</tspan></text>
+<polyline points="54.0,336.0 559.7,295.7 559.7,255.4 650.0,255.4" fill="none" stroke="#A7E8C4" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="559.7" cy="255.4" r="3" fill="#A7E8C4"/>
+<line x1="666" y1="156" x2="692" y2="156" stroke="#A7E8C4" stroke-width="3"/>
+<text x="700" y="160" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">SnakTUI <tspan fill="#78997F">(2)</tspan></text>
+<polyline points="54.0,336.0 126.2,295.7 650.0,295.7" fill="none" stroke="#8AD9B0" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="126.2" cy="295.7" r="3" fill="#8AD9B0"/>
+<line x1="666" y1="176" x2="692" y2="176" stroke="#8AD9B0" stroke-width="3"/>
+<text x="700" y="180" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">android12-fastfetch <tspan fill="#78997F">(1)</tspan></text>
+<polyline points="54.0,336.0 559.7,295.7 650.0,295.7" fill="none" stroke="#6FC79B" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="559.7" cy="295.7" r="3" fill="#6FC79B"/>
+<line x1="666" y1="196" x2="692" y2="196" stroke="#6FC79B" stroke-width="3"/>
+<text x="700" y="200" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">CalculaHTML <tspan fill="#78997F">(1)</tspan></text>
+<polyline points="54.0,336.0 573.2,295.7 650.0,295.7" fill="none" stroke="#55B58A" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="573.2" cy="295.7" r="3" fill="#55B58A"/>
+<line x1="666" y1="216" x2="692" y2="216" stroke="#55B58A" stroke-width="3"/>
+<text x="700" y="220" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">GrubBlastersHTML <tspan fill="#78997F">(1)</tspan></text>
+<polyline points="54.0,336.0 645.5,295.7 650.0,295.7" fill="none" stroke="#256E66" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="645.5" cy="295.7" r="3" fill="#256E66"/>
+<line x1="666" y1="236" x2="692" y2="236" stroke="#256E66" stroke-width="3"/>
+<text x="700" y="240" font-family="system-ui,sans-serif" font-size="11.5" fill="#C9E4CE">plusafetch <tspan fill="#78997F">(1)</tspan></text>
+</svg>

@@ -165,7 +165,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <br><br>
 
 <a href="https://github.com/Mark44928?tab=repositories">
-  <img width="100%" src="https://api.star-history.com/svg?repos=Mark44928/GrubBlastersHTML,Mark44928/NoNameOS,Mark44928/Plusafetch&type=Date&theme=dark" alt="Star history — Grub Blasters, NoNameOS, Plusafetch" />
+  <img width="100%" src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/assets/star-history.svg" alt="Star history — every non-fork repo with stars" />
 </a>
 
 </div>
