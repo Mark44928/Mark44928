@@ -41,8 +41,13 @@ def star_dates(repo: str) -> list[dt.date]:
     dates: list[dt.date] = []
     page = 1
     while True:
-        raw = gh("api", f"repos/{OWNER}/{repo}/stargazers?per_page=100&page={page}",
-                 "-H", "Accept: application/vnd.github.star+json")
+        try:
+            raw = gh("api", f"repos/{OWNER}/{repo}/stargazers?per_page=100&page={page}",
+                     "-H", "Accept: application/vnd.github.star+json")
+        except subprocess.CalledProcessError as err:
+            # A transient 403/5xx on one repo must not kill the whole chart.
+            print(f"  ! {repo}: skipped page {page} ({err.returncode})", file=sys.stderr)
+            return dates
         batch = json.loads(raw)
         if not batch:
             return dates
@@ -134,7 +139,7 @@ def main() -> int:
         print(f"  {name}: {len(days)} star(s)")
         collected.append((name, days))
     if not any(days for _, days in collected):
-        print("no stars found", file=sys.stderr)
+        print("no stars found — refusing to overwrite the existing chart", file=sys.stderr)
         return 1
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(render(collected), encoding="utf-8")
