@@ -2,11 +2,19 @@ name: Star history
 
 on:
   schedule:
-    - cron: "17 3 * * 1"
+    # Hourly: the practical maximum for one workflow. A single workflow cannot
+    # receive star events from other repos, so polling is the catch-all.
+    - cron: "17 * * * *"
+  watch:
+    types: [started]
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: star-history
+  cancel-in-progress: true
 
 jobs:
   chart:
