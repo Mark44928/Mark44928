@@ -158,6 +158,16 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mark44928&theme=transparent" alt="GitHub profile summary" />
 </a>
 
+<br><br>
+
+<img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=Mark44928&hide_title=true&hide_border=true&theme=github_dark" alt="GitHub contribution stats" />
+
+<br><br>
+
+<a href="https://github.com/Mark44928?tab=repositories">
+  <img width="100%" src="https://api.star-history.com/svg?repos=Mark44928/GrubBlastersHTML,Mark44928/NoNameOS,Mark44928/Plusafetch&type=Date&theme=dark" alt="Star history — Grub Blasters, NoNameOS, Plusafetch" />
+</a>
+
 </div>
 
 ---
