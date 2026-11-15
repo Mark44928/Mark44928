@@ -44,7 +44,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 | If you want… | Open |
 |---|---|
-| a terminal that matches your setup | [Greenit](https://github.com/Mark44928/Greenit) · [Plusafetch](https://github.com/Mark44928/Plusafetch) · [android12-fastfetch](https://github.com/Mark44928/android12-fastfetch) |
+| a terminal that matches your setup | [Greenit](https://github.com/Mark44928/Greenit) · [Bluney](https://github.com/Mark44928/Bluney) · [Plusafetch](https://github.com/Mark44928/Plusafetch) · [android12-fastfetch](https://github.com/Mark44928/android12-fastfetch) |
 | a game for a coffee break | [Grub Blasters](https://github.com/Mark44928/GrubBlastersHTML) · [SnakTUI](https://github.com/Mark44928/SnakTUI) |
 | a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) |
 | less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [Anti-bloatware for Android TV](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted) |
@@ -95,7 +95,13 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
       <br><sub><b>Greenit</b> — One palette.json → kitty, ghostty, vim, fish, zellij…</sub>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Mark44928/NoNameOS"><img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20261113-0633.png" alt="NoNameOS shell" width="100%"></a>
+      <a href="https://github.com/Mark44928/Bluney"><img src="https://raw.githubusercontent.com/Mark44928/Bluney/master/docs/palette.png" alt="Bluney palette" width="100%"></a>
+      <br><sub><b>Bluney</b> — Greenit's blue sibling — one palette.json → everywhere</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" align="center">
+      <a href="https://github.com/Mark44928/NoNameOS"><img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20261113-0633.png" alt="NoNameOS shell" width="50%"></a>
       <br><sub><b>NoNameOS</b> — Single-file C++17 OS simulation with a real shell</sub>
     </td>
   </tr>
@@ -254,6 +260,11 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 **Green-injected terminal, editor, shell and app theme family (dark + light).** 30 integrations rendered from a single `palette.json` by a tiny stdlib-only Python generator — Termux, Kitty, Alacritty, Ghostty, WezTerm, foot, iTerm2, Windows Terminal, Vim/Neovim, Emacs, Helix, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Greenit)
+
+### 🔵 Bluney · MIT
+**Greenit's blue sibling — same support, same generator, bluer palette.** 58 artifacts rendered from one `palette.json` (dark `#0E1B2E` and light `#F0F5FB` variants): Termux, kitty, ghostty, alacritty, wezterm, foot, iTerm2, Windows Terminal, vim, Emacs, Helix, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0E1B2E?style=for-the-badge&logo=github&logoColor=7DBBFF)](https://github.com/Mark44928/Bluney)
 
 ---
 
