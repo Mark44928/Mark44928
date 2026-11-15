@@ -264,7 +264,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 <p align="center"><img src="https://raw.githubusercontent.com/Mark44928/Bluney/master/assets/logo.svg" width="360" alt="Bluney"></p>
 
-**Greenit's blue sibling — same support, same generator, bluer palette.** 60 artifacts rendered from one `palette.json` (dark `#0E1B2E` and light `#F0F5FB` variants): Termux, kitty, ghostty, alacritty, wezterm, foot, iTerm2, Windows Terminal, vim, Emacs, Helix, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less.
+**Greenit's blue sibling — same support, same generator, bluer palette.** 61 artifacts rendered from one `palette.json` (dark `#0E1B2E` and light `#F0F5FB` variants): Termux, kitty, ghostty, alacritty, wezterm, foot, iTerm2, Windows Terminal, vim, Emacs, Helix, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0E1B2E?style=for-the-badge&logo=github&logoColor=7DBBFF)](https://github.com/Mark44928/Bluney)
 
