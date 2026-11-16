@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1F17,50:122A1F,100:7BD88F&height=210&section=header&text=Mark44928&fontSize=64&fontColor=7BD88F&animation=twinkling&fontAlignY=34&desc=Systems%20%E2%80%A2%20Termux%20%E2%80%A2%20Android&descAlignY=54&descSize=18" width="100%" alt="Mark44928" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0C1F17,50:122A1F,100:7BD88F&amp;height=210&amp;section=header&amp;text=Mark44928&amp;fontSize=64&amp;fontColor=7BD88F&amp;animation=twinkling&amp;fontAlignY=34&amp;desc=Systems%20%E2%80%A2%20Termux%20%E2%80%A2%20Android&amp;descAlignY=54&amp;descSize=18" width="100%" alt="Mark44928" />
 
 <img src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/avatar.png" width="150" alt="Octocat" />
 
 # Hi, I'm Markzz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=7BD88F&center=true&vCenter=true&width=760&lines=Systems+engineer+crafting+tiny%2C+dependency-free+tools;Termux+power+user+%E2%80%94+I+use+Termux+btw;Single-file+games%2C+OS+simulations%2C+Android+tooling;Small+binaries.+Zero+bloat.+Maximum+control." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=800&amp;color=7BD88F&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Systems+engineer+crafting+tiny%2C+dependency-free+tools;Termux+power+user+%E2%80%94+I+use+Termux+btw;Single-file+games%2C+OS+simulations%2C+Android+tooling;Small+binaries.+Zero+bloat.+Maximum+control." alt="Typing SVG" />
 </a>
 
 **I build lightweight, dependency-free software for Termux, Android, and the terminal.**
@@ -15,10 +15,10 @@
 *If it needs a 400 MB runtime, it probably doesn't need to exist.*
 
 <p>
-  <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&logo=github&label=Followers&color=7BD88F" alt="Followers"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMark44928&query=%24.public_repos&label=Repos&color=63C9A8&style=for-the-badge&logo=github" alt="Repos">
-  <img src="https://komarev.com/ghpvc/?username=Mark44928&label=VISITORS&color=7BD88F&style=for-the-badge" alt="Profile views">
-  <a href="mailto:marklarencecoyoca@gmail.com"><img src="https://img.shields.io/badge/Email-marklarencecoyoca%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7BD88F" alt="Followers"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMark44928&amp;query=%24.public_repos&amp;label=Repos&amp;color=63C9A8&amp;style=for-the-badge&amp;logo=github" alt="Repos">
+  <img src="https://komarev.com/ghpvc/?username=Mark44928&amp;label=VISITORS&amp;color=7BD88F&amp;style=for-the-badge" alt="Profile views">
+  <a href="mailto:marklarencecoyoca@gmail.com"><img src="https://img.shields.io/badge/Email-marklarencecoyoca%40gmail.com-1f6feb?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
 </div>
@@ -62,11 +62,11 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/SnakTUI"><img src="https://raw.githubusercontent.com/Mark44928/SnakTUI/main/docs/game.png" alt="SnakTUI gameplay" width="100%"></a>
-      <br><sub><b>SnakTUI</b> — Textual Snake with 11 themes, combos and power-ups</sub>
+      <br><sub><b>SnakTUI</b> — Textual Snake: Daily Challenge, accessibility mode, live palette editor, 11 themes</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Plusalator"><img src="https://raw.githubusercontent.com/Mark44928/Plusalator/master/docs/screenshot.png" alt="Plusalator REPL" width="100%"></a>
-      <br><sub><b>Plusalator</b> — C++17 calculator REPL: ASCII plots, CSV export, 18 themes</sub>
+      <br><sub><b>Plusalator</b> — C++17 calculator REPL: ASCII plots, CSV/JSON output, 18 themes</sub>
     </td>
   </tr>
   <tr>
@@ -76,13 +76,13 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Easy-Termux-Package-Manager"><img src="https://raw.githubusercontent.com/Mark44928/Easy-Termux-Package-Manager/master/docs/menu.png" alt="pkg-manager menu" width="100%"></a>
-      <br><sub><b>Easy-Termux-Package-Manager</b> — 57-entry Termux package manager, zero dependencies</sub>
+      <br><sub><b>Easy-Termux-Package-Manager</b> — 57-entry Termux package manager: themes, custom themes, live audit/doctor, zero dependencies</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Plusafetch"><img src="https://raw.githubusercontent.com/Mark44928/Plusafetch/main/docs/screenshot.png" alt="Plusafetch output" width="100%"></a>
-      <br><sub><b>Plusafetch</b> — C++23 Android system fetch — ~23 ms, no subprocess</sub>
+      <br><sub><b>Plusafetch</b> — C++23 Android system fetch: ~23 ms, `watch`, alerts, `doctor`, `plusfet`</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/android12-fastfetch"><img src="https://raw.githubusercontent.com/Mark44928/android12-fastfetch/main/docs/fastfetch.png" alt="android12-fastfetch" width="100%"></a>
@@ -110,9 +110,9 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <a id="now"></a>
 ## 📍 Now
 
-- **Plusafetch** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. CI green on clang/gcc/AppleClang.
+- **Plusafetch** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. Includes `-w/--watch`, a `plusfet` alias, threshold alerts with `--check-alerts`, hooks and cooldowns, and `--doctor` diagnostics. CI green on clang/gcc/AppleClang.
 - **pkg-manager v5.3.1** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, and a numbered text mode that takes over (with an explanation) if fzf ever breaks.
-- **Fresh this week** — Plusalator plots any function in ASCII and exports vars/history to CSV; CalculaHTML converts results to hex/bin/oct in one tap; Grub Blasters has a per-device Motion control; SnakTUI shows live palette swatches in Settings; Plusafetch ships four copy-paste skins.
+- **Fresh this week** — SnakTUI adds a date-seeded Daily Challenge with a shareable seed and `DAILY` leaderboard tag; CalculaHTML adds `↑`/`↓` keyboard history recall; Plusalator adds `--json --eval` scripting output and 171 tests; Grub Blasters sharpens its Elder, Mortar and Comet Fist icons; Greenit and Bluney add generated micro color schemes; pkg-manager gains `--why <package>`; Anti-bloatware adds a `restore.sh --dry-run` preview; Plusafetch adds `--doctor` for config/theme/module diagnostics. Still shipping Plusalator ASCII plots/CSV export, Grub Blasters Halo Strike + GIF/JSON replay + QR setup codes, NoNameOS recovery boot, and Plusafetch watch/alerts/`plusfet`.
 - NoNameOS gained real `sha256sum`/`stat` commands plus a piped-REPL smoke
   suite, Plusalator gained memory slots, angle units and output radix modes,
   and Android9-audios ships per-file checksums with a verify script.
@@ -130,16 +130,16 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,bash,py,html,css,js,git,github,linux,android,vim&theme=dark&perline=12" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,bash,py,html,css,js,git,github,linux,android,vim&amp;theme=dark&amp;perline=12" alt="Tech stack" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=terminal&logoColor=white" alt="Termux">
-<img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=black" alt="ADB">
-<img src="https://img.shields.io/badge/GCC%2FClang-A8B9CC?style=flat-square&logo=llvm&logoColor=black" alt="GCC/Clang">
-<img src="https://img.shields.io/badge/Make-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="Make">
-<img src="https://img.shields.io/badge/Textual-5A56E0?style=flat-square&logo=python&logoColor=white" alt="Textual">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/Termux-000000?style=flat-square&amp;logo=terminal&amp;logoColor=white" alt="Termux">
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=black" alt="ADB">
+<img src="https://img.shields.io/badge/GCC%2FClang-A8B9CC?style=flat-square&amp;logo=llvm&amp;logoColor=black" alt="GCC/Clang">
+<img src="https://img.shields.io/badge/Make-064F8C?style=flat-square&amp;logo=cmake&amp;logoColor=white" alt="Make">
+<img src="https://img.shields.io/badge/Textual-5A56E0?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Textual">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 
 </div>
 
@@ -150,23 +150,23 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <div align="center">
 
 <a href="https://github.com/Mark44928">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Mark44928&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&icon_color=63C9A8&text_color=C9E4CE" alt="GitHub stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Mark44928&theme=transparent&hide_border=true&background=0C1F17&ring=7BD88F&fire=63C9A8&currStreakLabel=7BD88F&sideLabels=C9E4CE&dates=78997F" alt="GitHub streak" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Mark44928&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true&amp;bg_color=0C1F17&amp;title_color=7BD88F&amp;icon_color=63C9A8&amp;text_color=C9E4CE" alt="GitHub stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Mark44928&amp;theme=transparent&amp;hide_border=true&amp;background=0C1F17&amp;ring=7BD88F&amp;fire=63C9A8&amp;currStreakLabel=7BD88F&amp;sideLabels=C9E4CE&amp;dates=78997F" alt="GitHub streak" />
 </a>
 
 <br>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mark44928&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=0C1F17&title_color=7BD88F&text_color=C9E4CE" alt="Top languages" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mark44928&amp;layout=donut&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true&amp;bg_color=0C1F17&amp;title_color=7BD88F&amp;text_color=C9E4CE" alt="Top languages" />
 
 <br /><br />
 
 <a href="https://github.com/Mark44928">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mark44928&theme=transparent" alt="GitHub profile summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mark44928&amp;theme=transparent" alt="GitHub profile summary" />
 </a>
 
 <br><br>
 
-<img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=Mark44928&hide_title=true&hide_border=true&theme=github_dark" alt="GitHub contribution stats" />
+<img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=Mark44928&amp;hide_title=true&amp;hide_border=true&amp;theme=github_dark" alt="GitHub contribution stats" />
 
 </div>
 
@@ -176,7 +176,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ## 🚀 Featured Projects
 
 ### 🎮 Grub Blasters
-**Worms-style turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 71 weapons (bazooka to Boggy B), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, and hot-seat multiplayer.
+**Turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 72 IP-safe weapons (bazooka to Major Munch and Halo Strike), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, hot-seat multiplayer, replay GIF/JSON export, and setup-code sharing with QR codes.
 
 > No dependencies. No build step. One file, any modern browser, desktop or phone.
 
@@ -186,14 +186,14 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 📦 Easy-Termux-Package-Manager · MIT
-**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 16 themes, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`) — 184 tests.
+**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 18 built-in themes (including Greenit and Bluney) + a custom theme editor, a theme inspector explaining repo origin and manual/auto reason, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`, `--why`) — 186 tests.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
 
 ---
 
 ### 🖥️ NoNameOS · GPL-3.0
-**A complete OS simulation in one C++17 file.** Interactive shell, virtual filesystem, built-in utilities, and games — zero external dependencies. Single-file architecture, self-contained complexity, and a genuinely fun way to learn systems concepts.
+**A complete OS simulation in one C++17 file.** Interactive shell, virtual filesystem, built-in utilities, Unicode-bordered boot menu, fake GRUB recovery mode, and games — zero external dependencies. Single-file architecture, self-contained complexity, and a genuinely fun way to learn systems concepts.
 
 <img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20260524-150528~2.png" width="520" alt="NoNameOS screenshot" />
 
@@ -204,7 +204,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🐍 SnakTUI · MIT
-**A modern, visually stunning Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost, Frenzy, Magnet), golden apples, eleven themes, three difficulties, and a persistent local leaderboard, all in pure Unicode blocks.
+**A modern, visually stunning Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost, Frenzy, Magnet), golden apples, eleven themes, a live custom palette editor, accessibility mode, three difficulties, and a persistent local leaderboard, all in pure Unicode blocks.
 
 > Cinematic effects — glow, screen shake, floating score popups — with a layout that adapts to your terminal.
 
@@ -213,7 +213,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🔢 CalculaHTML · MIT
-**A feature-rich, visually rich modern HTML calculator** with 15 themes plus a System mode (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape with CSV export, a `?` shortcut overlay, keyboard shortcuts, and full responsiveness — all in a single dependency-free page.
+**A feature-rich, visually rich modern HTML calculator** with 15 themes plus a System mode (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape with CSV export, workspace share links, a `?` shortcut overlay, keyboard shortcuts, and full responsiveness — all in a single dependency-free page.
 
 [![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7BD88F?style=for-the-badge&logo=githubpages&logoColor=0C1F17)](https://mark44928.github.io/CalculaHTML/)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/CalculaHTML)
@@ -228,7 +228,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### ⚡ Plusafetch · MIT
-**A modular C++23 take on fastfetch for Termux** — fastfetch-style A–Z module registry, zero logo, no network, no exceptions. Android OS/host info from the NDK property service (zero subprocess on the default path), `std::jthread` parallel detection, `std::expected` everywhere, zero-allocation string buffers, single-write output — ~23 ms on a Helio P22. Linux fallback included.
+**A modular C++23 take on fastfetch for Termux** — fastfetch-style A–Z module registry, zero logo, no network, no exceptions. Android OS/host info from the NDK property service (zero subprocess on the default path), `std::jthread` parallel detection, `std::expected` everywhere, zero-allocation string buffers, single-write output — ~23 ms on a Helio P22. Includes `-w/--watch`, a `plusfet` symlink, and threshold alerts (`mem`, `swap`, `disk`, `load`, `battery`) with `--check-alerts`, hooks and cooldowns. Linux fallback included.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Mark44928/plusafetch/ci.yml?branch=main&label=CI&logo=github&color=7BD88F&style=for-the-badge)](https://github.com/Mark44928/plusafetch/actions/workflows/ci.yml)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/plusafetch)
@@ -264,7 +264,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 <p align="center"><img src="https://raw.githubusercontent.com/Mark44928/Bluney/master/assets/logo.svg" width="360" alt="Bluney"></p>
 
-**Greenit's blue sibling — same support, same generator, bluer palette.** 61 artifacts rendered from one `palette.json` (dark `#0E1B2E` and light `#F0F5FB` variants): Termux, kitty, ghostty, alacritty, wezterm, foot, iTerm2, Windows Terminal, vim, Emacs, Helix, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less.
+**Greenit's blue sibling — same support, same generator, bluer palette.** 63 artifacts rendered from one `palette.json` (dark `#0E1B2E` and light `#F0F5FB` variants): Termux, kitty, ghostty, alacritty, wezterm, foot, iTerm2, Windows Terminal, vim, Emacs, Helix, micro, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0E1B2E?style=for-the-badge&logo=github&logoColor=7DBBFF)](https://github.com/Mark44928/Bluney)
 
@@ -319,7 +319,7 @@ Clear steps to reproduce are worth more than a vague bug report — and make fix
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random developer quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=transparent" alt="Random developer quote" />
 
 </div>
 
@@ -339,7 +339,7 @@ Clear steps to reproduce are worth more than a vague bug report — and make fix
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7BD88F,50:122A1F,100:0C1F17&height=140&section=footer&text=Small%20binaries.%20Zero%20bloat.&fontSize=22&fontColor=7BD88F&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7BD88F,50:122A1F,100:0C1F17&amp;height=140&amp;section=footer&amp;text=Small%20binaries.%20Zero%20bloat.&amp;fontSize=22&amp;fontColor=7BD88F&amp;animation=twinkling&amp;fontAlignY=70" width="100%" alt="footer" />
 
 <div align="center">
 
