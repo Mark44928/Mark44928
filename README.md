@@ -62,7 +62,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/SnakTUI"><img src="https://raw.githubusercontent.com/Mark44928/SnakTUI/main/docs/game.png" alt="SnakTUI gameplay" width="100%"></a>
-      <br><sub><b>SnakTUI</b> — Textual Snake: Daily Challenge, accessibility mode, live palette editor, 11 themes</sub>
+      <br><sub><b>SnakTUI</b> — Textual Snake: Daily Challenge, run codes, accessibility mode, live palette editor</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Plusalator"><img src="https://raw.githubusercontent.com/Mark44928/Plusalator/master/docs/screenshot.png" alt="Plusalator REPL" width="100%"></a>
@@ -72,7 +72,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/CalculaHTML"><img src="https://raw.githubusercontent.com/Mark44928/CalculaHTML/main/assets/preview.svg" alt="CalculaHTML preview" width="100%"></a>
-      <br><sub><b>CalculaHTML</b> — PWA calculator: 15 themes, f(x) graph, base chips</sub>
+      <br><sub><b>CalculaHTML</b> — PWA calculator: 15 themes, f(x) graph, unit converter, base chips</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Easy-Termux-Package-Manager"><img src="https://raw.githubusercontent.com/Mark44928/Easy-Termux-Package-Manager/master/docs/menu.png" alt="pkg-manager menu" width="100%"></a>
@@ -92,11 +92,11 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Greenit"><img src="https://raw.githubusercontent.com/Mark44928/Greenit/master/docs/palette.png" alt="Greenit palette" width="100%"></a>
-      <br><sub><b>Greenit</b> — One palette.json → kitty, ghostty, vim, fish, zellij…</sub>
+      <br><sub><b>Greenit</b> — One palette.json → kitty, ghostty, vim, fish, zellij… + gallery</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Bluney"><img src="https://raw.githubusercontent.com/Mark44928/Bluney/master/docs/palette.png" alt="Bluney palette" width="100%"></a>
-      <br><sub><b>Bluney</b> — Greenit's blue sibling — one palette.json → everywhere</sub>
+      <br><sub><b>Bluney</b> — Greenit's blue sibling — one palette.json → everywhere + gallery</sub>
     </td>
   </tr>
   <tr>
@@ -112,8 +112,8 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 - **Plusafetch** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. Includes `-w/--watch`, a `plusfet` alias, threshold alerts with `--check-alerts`, hooks and cooldowns, and `--doctor` diagnostics. CI green on clang/gcc/AppleClang.
 - **pkg-manager v5.3.1** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, and a numbered text mode that takes over (with an explanation) if fzf ever breaks.
-- **Pythonator v0.1.0** — pure-Python Plusalator sibling: Qalculate-style parsing without `eval()`, REPL themes, stats/primes/factorization/tables/ASCII plots, and `--eval`/`--json` for scripts. No dependencies.
-- **Fresh this week** — Pythonator lands as the dependency-free Python rewrite of Plusalator; SnakTUI adds a date-seeded Daily Challenge with a shareable seed and `DAILY` leaderboard tag; CalculaHTML adds `↑`/`↓` keyboard history recall; Plusalator adds `--json --eval` scripting output and 171 tests; Grub Blasters sharpens its Elder, Mortar and Comet Fist icons; Greenit and Bluney add generated micro color schemes; pkg-manager gains `--why <package>`; Anti-bloatware adds a `restore.sh --dry-run` preview; Plusafetch adds `--doctor` for config/theme/module diagnostics.
+- **Pythonator v0.2.0** — pure-Python Plusalator sibling: Pyfiglet banner, exact 18-tone theme tables, raw-mode line editor with ghost autosuggest, memory slots, hex/bin/sci output, stats/primes/factorization/tables/ASCII plots, and `--eval`/`--json` for scripts. No dependencies.
+- **Fresh this week** — Grub Blasters adds the searchable 72-weapon Codex; CalculaHTML adds a 9-category unit converter; SnakTUI adds `SNAK1-…` run codes with clipboard copy; Pythonator gains memory slots and output radix modes; Greenit and Bluney add generated dark/light theme galleries; Plusafetch adds `--statusline` for tmux/prompts; pkg-manager adds `--largest`; Anti-bloatware adds a read-only `audit.sh`; all repos keep their 187-test package-manager reference synced.
 - NoNameOS gained real `sha256sum`/`stat` commands plus a piped-REPL smoke
   suite, Plusalator gained memory slots, angle units and output radix modes,
   and Android9-audios ships per-file checksums with a verify script.
@@ -187,7 +187,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 📦 Easy-Termux-Package-Manager · MIT
-**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 18 built-in themes (including Greenit and Bluney) + a custom theme editor, a theme inspector explaining repo origin and manual/auto reason, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`, `--why`) — 186 tests.
+**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 18 built-in themes (including Greenit and Bluney) + a custom theme editor, a theme inspector explaining repo origin and manual/auto reason, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`, `--why`, `--largest`) — 187 tests.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
 
@@ -273,7 +273,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 <p align="center"><img src="https://raw.githubusercontent.com/Mark44928/Bluney/master/assets/logo.svg" width="360" alt="Bluney"></p>
 
-**Greenit's blue sibling — same support, same generator, bluer palette.** 63 artifacts rendered from one `palette.json` (dark `#0E1B2E` and light `#F0F5FB` variants): Termux, kitty, ghostty, alacritty, wezterm, foot, iTerm2, Windows Terminal, vim, Emacs, Helix, micro, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less.
+**Greenit's blue sibling — same support, same generator, bluer palette.** 64 artifacts rendered from one `palette.json` (dark `#0E1B2E` and light `#F0F5FB` variants): Termux, kitty, ghostty, alacritty, wezterm, foot, iTerm2, Windows Terminal, vim, Emacs, Helix, micro, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less — plus an offline `gallery.html`.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0E1B2E?style=for-the-badge&logo=github&logoColor=7DBBFF)](https://github.com/Mark44928/Bluney)
 
