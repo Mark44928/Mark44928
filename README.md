@@ -62,7 +62,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/SnakTUI"><img src="https://raw.githubusercontent.com/Mark44928/SnakTUI/main/docs/game.png" alt="SnakTUI gameplay" width="100%"></a>
-      <br><sub><b>SnakTUI</b> — Textual Snake: Daily Challenge, run codes, accessibility mode, live palette editor</sub>
+      <br><sub><b>SnakTUI</b> — Textual Snake: Daily Challenge, share-code import/export, accessibility mode, live palette editor</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Plusalator"><img src="https://raw.githubusercontent.com/Mark44928/Plusalator/master/docs/screenshot.png" alt="Plusalator REPL" width="100%"></a>
@@ -72,7 +72,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/CalculaHTML"><img src="https://raw.githubusercontent.com/Mark44928/CalculaHTML/main/assets/preview.svg" alt="CalculaHTML preview" width="100%"></a>
-      <br><sub><b>CalculaHTML</b> — PWA calculator: 15 themes, f(x) graph, unit converter, base chips</sub>
+      <br><sub><b>CalculaHTML</b> — PWA calculator: 15 themes, f(x) graph with saved presets, unit converter, base chips</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Easy-Termux-Package-Manager"><img src="https://raw.githubusercontent.com/Mark44928/Easy-Termux-Package-Manager/master/docs/menu.png" alt="pkg-manager menu" width="100%"></a>
@@ -82,7 +82,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Plusafetch"><img src="https://raw.githubusercontent.com/Mark44928/Plusafetch/main/docs/screenshot.png" alt="Plusafetch output" width="100%"></a>
-      <br><sub><b>Plusafetch</b> — C++23 Android system fetch: ~23 ms, `watch`, alerts, `doctor`, `plusfet`</sub>
+      <br><sub><b>Plusafetch</b> — C++23 Android system fetch: ~23 ms, `watch`, alerts, `doctor`, `statusline`, `report`</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/android12-fastfetch"><img src="https://raw.githubusercontent.com/Mark44928/android12-fastfetch/main/docs/fastfetch.png" alt="android12-fastfetch" width="100%"></a>
@@ -110,10 +110,10 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <a id="now"></a>
 ## 📍 Now
 
-- **Plusafetch** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. Includes `-w/--watch`, a `plusfet` alias, threshold alerts with `--check-alerts`, hooks and cooldowns, and `--doctor` diagnostics. CI green on clang/gcc/AppleClang.
-- **pkg-manager v5.3.1** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, and a numbered text mode that takes over (with an explanation) if fzf ever breaks.
-- **Pythonator v0.2.0** — pure-Python Plusalator sibling: Pyfiglet banner, exact 18-tone theme tables, raw-mode line editor with ghost autosuggest, memory slots, hex/bin/sci output, stats/primes/factorization/tables/ASCII plots, and `--eval`/`--json` for scripts. No dependencies.
-- **Fresh this week** — Grub Blasters adds the searchable 72-weapon Codex; CalculaHTML adds a 9-category unit converter; SnakTUI adds `SNAK1-…` run codes with clipboard copy; Pythonator gains memory slots and output radix modes; Greenit and Bluney add generated dark/light theme galleries; Plusafetch adds `--statusline` for tmux/prompts; pkg-manager adds `--largest`; Anti-bloatware adds a read-only `audit.sh`; all repos keep their 187-test package-manager reference synced.
+- **Plusafetch 0.4.0** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. Includes `-w/--watch`, a `plusfet` alias, threshold alerts with `--check-alerts`, hooks and cooldowns, `--doctor` diagnostics, `--statusline` for tmux/prompts, and `--report` for a 30-sample sparkline trend of memory/swap/disk/load. CI green on clang/gcc/AppleClang.
+- **pkg-manager** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, a numbered text mode that takes over (with an explanation) if fzf ever breaks, `--why` / `--largest`, and a read-only `--triage` report for upgrades, orphan candidates, residual configs, held packages and reclaimable cache/list space.
+- **Pythonator 0.3.0** — pure-Python Plusalator sibling: Pyfiglet banner, exact 18-tone theme tables, raw-mode line editor with ghost autosuggest, memory slots, hex/bin/sci output, stats/primes/factorization/tables/ASCII plots, `explain <expr>` parsed expression trees, and `--eval`/`--json` for scripts. No dependencies.
+- **Fresh this week** — CalculaHTML adds reusable **graph presets** on top of the unit converter; SnakTUI adds run-code import/export (`SNAK1-…`) alongside the leaderboard; Plusafetch grows its 30-run JSONL report; pkg-manager gains `--triage`; Anti-bloatware can now emit a self-contained searchable HTML audit report; Android9-audios picks random tracks by alarms/notifications/ringtones/ui with counts; Plusashell was deliberately scrapped after bash got honest about its complexity budget.
 - NoNameOS gained real `sha256sum`/`stat` commands plus a piped-REPL smoke
   suite, Plusalator gained memory slots, angle units and output radix modes,
   and Android9-audios ships per-file checksums with a verify script.
@@ -187,7 +187,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 📦 Easy-Termux-Package-Manager · MIT
-**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 18 built-in themes (including Greenit and Bluney) + a custom theme editor, a theme inspector explaining repo origin and manual/auto reason, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`, `--why`, `--largest`) — 187 tests.
+**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 18 built-in themes (including Greenit and Bluney) + a custom theme editor, a theme inspector explaining repo origin and manual/auto reason, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`, `--why`, `--largest`, `--triage`) — 188 tests.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
 
@@ -229,7 +229,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🐍 Pythonator · MIT
-**A dependency-free Python rewrite of Plusalator** — same calculator semantics in pure standard-library Python. Postfix percent, implicit multiplication, factorial, hex/bin/oct literals, user functions, built-in constants, angle units, a headless `--eval`/`--json` interface, and an interactive REPL with themes, stats, primes, factorization, tables and ASCII plots.
+**A dependency-free Python rewrite of Plusalator** — same calculator semantics in pure standard-library Python. Postfix percent, implicit multiplication, factorial, hex/bin/oct literals, user functions, built-in constants, angle units, a headless `--eval`/`--json` interface, and an interactive REPL with themes, stats, primes, factorization, tables, ASCII plots and parsed-expression explanations.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Mark44928/Pythonator/ci.yml?branch=main&label=CI&logo=github&color=7BD88F&style=for-the-badge)](https://github.com/Mark44928/Pythonator/actions/workflows/ci.yml)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Pythonator)
