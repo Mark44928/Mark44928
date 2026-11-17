@@ -198,14 +198,14 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 <img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20260524-150528~2.png" width="520" alt="NoNameOS screenshot" />
 
-> *Screenshot from an earlier build — the current version is far more feature-rich.*
+> *Screenshot shows an earlier build; feature list above reflects the current version.*
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/NoNameOS)
 
 ---
 
 ### 🐍 SnakTUI · MIT
-**A modern, visually stunning Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost, Frenzy, Magnet), golden apples, eleven themes, a live custom palette editor, accessibility mode, three difficulties, and a persistent local leaderboard, all in pure Unicode blocks.
+**A Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost, Frenzy, Magnet), golden apples, eleven themes, a live custom palette editor, accessibility mode, three difficulties, and a persistent local leaderboard, all in pure Unicode blocks.
 
 > Cinematic effects — glow, screen shake, floating score popups — with a layout that adapts to your terminal.
 
@@ -214,7 +214,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🔢 CalculaHTML · MIT
-**A feature-rich, visually rich modern HTML calculator** with 15 themes plus a System mode (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape with CSV export, workspace share links, a `?` shortcut overlay, keyboard shortcuts, and full responsiveness — all in a single dependency-free page.
+**A single-file HTML calculator with 15 themes plus a System mode (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape with CSV export, workspace share links, a `?` shortcut overlay, keyboard shortcuts, and full responsiveness.**
 
 [![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7BD88F?style=for-the-badge&logo=githubpages&logoColor=0C1F17)](https://mark44928.github.io/CalculaHTML/)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/CalculaHTML)
@@ -245,7 +245,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🖥️ android12-fastfetch · MIT
-**Drop-in fastfetch config for Android 12 and native X11 Termux desktops (XFCE, MATE, LXQt).** Beautiful, consistent system information for your terminal — install, run, done.
+**Drop-in fastfetch config for Android 12 and native X11 Termux desktops (XFCE, MATE, LXQt).** Prompted by Android system properties, with no required services beyond the config itself.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/android12-fastfetch)
 
