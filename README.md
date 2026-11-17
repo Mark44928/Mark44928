@@ -16,6 +16,8 @@
 
 **[Open the project hub →](https://mark44928.github.io/Mark44928/)** — every project, one page, no JavaScript.
 
+**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [Anti-bloatware](https://mark44928.github.io/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
+
 <p>
   <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7BD88F" alt="Followers"></a>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMark44928&amp;query=%24.public_repos&amp;label=Repos&amp;color=63C9A8&amp;style=for-the-badge&amp;logo=github" alt="Repos">
