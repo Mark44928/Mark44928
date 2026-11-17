@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mark44928 — project hub</title>
+<style>
+:root{color-scheme:dark;--bg:#0c1016;--panel:#141b23;--line:#283341;--text:#e8eef4;--muted:#91a1b2;--accent:#7bd88f;--accent2:#7dbbff}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(80% 50% at 50% 0,#17212b,var(--bg));color:var(--text);font:16px/1.55 ui-sans-serif,system-ui,sans-serif}
+a{color:var(--accent2);text-decoration:none}a:hover{text-decoration:underline}
+main{max-width:1120px;margin:auto;padding:48px 20px 64px}
+header{display:flex;gap:22px;align-items:end;justify-content:space-between;flex-wrap:wrap;margin-bottom:26px}
+h1{font-size:clamp(2rem,6vw,4.4rem);line-height:.95;margin:0;letter-spacing:-.045em}
+header p{max-width:38rem;color:var(--muted);margin:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(245px,1fr));gap:14px}
+.card{display:flex;flex-direction:column;background:linear-gradient(160deg,#18222d,var(--panel));border:1px solid var(--line);border-radius:16px;padding:16px;min-height:170px}
+.card h2{font-size:1.05rem;margin:0 0 5px;color:var(--text)}
+.card p{margin:0 0 15px;color:var(--muted);font-size:.9rem}
+.eyebrow{font-size:.7rem;letter-spacing:.13em;text-transform:uppercase;color:var(--accent);margin-bottom:9px}
+.links{margin-top:auto;display:flex;gap:12px;flex-wrap:wrap;font-size:.82rem}
+.hero{display:grid;grid-template-columns:1.15fr .85fr;gap:18px;margin:14px 0 30px}
+.terminal{border:1px solid var(--line);border-radius:16px;background:#080d12;padding:16px;font:13px/1.7 ui-monospace,monospace;color:#b9c8d6;overflow:hidden}
+.terminal b{color:var(--accent)}.terminal span{color:var(--muted)}
+.note{color:var(--muted);font-size:.78rem;border-top:1px solid var(--line);padding-top:14px;margin-top:28px}
+footer{margin-top:32px;color:var(--muted);font-size:.8rem}
+@media(max-width:720px){.hero{grid-template-columns:1fr}main{padding-top:30px}}
+</style>
+</head>
+<body>
+<main>
+<header>
+<div>
+<div class="eyebrow">Mark44928 / project hub</div>
+<h1>Small tools.<br>Sharp edges.</h1>
+</div>
+<p>Termux-first games, calculators, themes and diagnostics. No cloud accounts, no browser farms, no mystery dependencies.</p>
+</header>
+
+<section class="hero">
+<div class="terminal" aria-label="Terminal example">
+<b>mark@termux</b> <span>~</span><br>
+<b>❯</b> plusafetch --statusline<br>
+<span>mem 58% · swap 31% · disk 47% · load 0.8</span><br>
+<b>❯</b> pythonator -h<br>
+<span>help · vars · funcs · theme · angle · mode · ms/mr</span><br>
+<b>❯</b> snak-tui<br>
+<span>◆ SNAKTUI · DAILY · GHOST</span>
+</div>
+<div>
+<h2 style="margin:.2em 0 8px">A family, not a monolith</h2>
+<p style="color:var(--muted);margin-top:0">Every project stands alone, but they share the same rules: Termux first, readable source, useful tests, and a clear exit.</p>
+</div>
+</section>
+
+<section class="grid" aria-label="Projects">
+<article class="card">
+<div class="eyebrow">Play</div>
+<h2>Grub Blasters</h2>
+<p>Turn-based artillery in one HTML file. 72 weapons, destructible terrain and a searchable arsenal.</p>
+<div class="links"><a href="https://mark44928.github.io/GrubBlastersHTML/">Play</a><a href="https://github.com/Mark44928/GrubBlastersHTML">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Play</div>
+<h2>SnakTUI</h2>
+<p>Snake for the terminal with daily runs, run codes, themes and a ghost of your best line.</p>
+<div class="links"><a href="https://github.com/Mark44928/SnakTUI">Source</a><a href="https://github.com/Mark44928/SnakTUI/releases">Releases</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Calculate</div>
+<h2>CalculaHTML</h2>
+<p>A single-file calculator PWA: graph presets, animated parameters, units and no backend.</p>
+<div class="links"><a href="https://mark44928.github.io/CalculaHTML/">Open app</a><a href="https://github.com/Mark44928/CalculaHTML">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Calculate</div>
+<h2>Plusalator</h2>
+<p>A C++17 calculator REPL that runs in a terminal and speaks JSON when scripts need it.</p>
+<div class="links"><a href="https://github.com/Mark44928/Plusalator">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Calculate</div>
+<h2>Pythonator</h2>
+<p>The stdlib-only Python sibling: complex numbers, memory slots, plots and explainable expression trees.</p>
+<div class="links"><a href="https://github.com/Mark44928/Pythonator">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">System</div>
+<h2>Plusafetch</h2>
+<p>A fast C++23 system fetch for Termux, with alerts, diagnostics and a compact trend report.</p>
+<div class="links"><a href="https://github.com/Mark44928/Plusafetch">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">System</div>
+<h2>pkg-manager</h2>
+<p>An fzf-driven package manager for Termux: profiles, lock files, audits and a readable package inspector.</p>
+<div class="links"><a href="https://github.com/Mark44928/Easy-Termux-Package-Manager">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">System</div>
+<h2>NoNameOS</h2>
+<p>A single-file C++17 OS simulation with a real shell, virtual filesystem and a built-in selftest.</p>
+<div class="links"><a href="https://github.com/Mark44928/NoNameOS">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Themes</div>
+<h2>Greenit</h2>
+<p>A green-injected terminal and editor theme family generated from one palette file.</p>
+<div class="links"><a href="https://github.com/Mark44928/Greenit">Source</a><a href="https://github.com/Mark44928/Greenit/blob/master/gallery.html">Gallery</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Themes</div>
+<h2>Bluney</h2>
+<p>The blue branch of the family: terminal themes, editor ports and a standard Neovim plugin structure.</p>
+<div class="links"><a href="https://github.com/Mark44928/Bluney">Source</a><a href="https://github.com/Mark44928/Bluney/blob/master/gallery.html">Gallery</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Android</div>
+<h2>android12-fastfetch</h2>
+<p>An Android-aware fastfetch layout with light, Greenit and Bluney presets.</p>
+<div class="links"><a href="https://github.com/Mark44928/android12-fastfetch">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Android</div>
+<h2>Android9-audios</h2>
+<p>217 stock Android 9 sounds with verified SHA-256 checksums and a category-filtered random picker.</p>
+<div class="links"><a href="https://github.com/Mark44928/Android9-audios">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Android</div>
+<h2>Anti-bloatware</h2>
+<p>Read-only audits, device-specific debloat scripts and matching restore tools for rooted Android TV boxes.</p>
+<div class="links"><a href="https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted">Source</a></div>
+</article>
+<article class="card">
+<div class="eyebrow">Profile</div>
+<h2>Mark44928</h2>
+<p>The source of this page and the project index behind it.</p>
+<div class="links"><a href="https://github.com/Mark44928">GitHub profile</a></div>
+</article>
+</section>
+
+<p class="note">Everything on this page runs locally or on GitHub Pages. No analytics, no tracking pixels, no account required.</p>
+<footer>Built by Mark44928. <a href="https://github.com/Mark44928">GitHub</a></footer>
+</main>
+</body>
+</html>
