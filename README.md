@@ -114,10 +114,10 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <a id="now"></a>
 ## 📍 Now
 
-- **Plusafetch 0.5.0** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. Includes `-w/--watch`, a `plusfet` alias, threshold alerts with `--check-alerts`, hooks and cooldowns, `--doctor` diagnostics, `--statusline` for tmux/prompts, and `--report` for a 30-sample trend of memory, swap, disk, load, battery and temperature. CI green on clang/gcc/AppleClang.
-- **pkg-manager** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, a numbered text mode that takes over (with an explanation) if fzf ever breaks, `--why` / `--largest`, a read-only `--triage` report, a persisted health timeline, `--lock` / `--restore-lock` exact pins, and scriptable package profiles.
-- **Pythonator 0.4.0** — pure-Python Plusalator sibling: Pyfiglet banner, exact 18-tone theme tables, raw-mode line editor with ghost autosuggest, memory slots, hex/bin/sci output, stats/primes/factorization/tables/ASCII plots, complex numbers with `i`/`arg`/`re`/`im`/`conj`, `explain <expr>` parsed expression trees, and `--eval`/`--json` for scripts. Includes a shared parity corpus that compares both engines when a Plusalator binary is available. No dependencies.
-- **Fresh this week** — CalculaHTML adds reusable graph presets and **animated `f(x, t)` graphs**; SnakTUI adds run-code import/export and **best-run ghost trails**; Pythonator gains **complex numbers** and a Plusalator parity corpus; Plusafetch grows its 30-run report with **battery and temperature**; pkg-manager gains lock-file pins, scriptable profiles and a persisted **health timeline**; NoNameOS adds `--selftest`; Anti-bloatware emits a searchable HTML audit and a device-specific profile generator; android12-fastfetch gains Greenit and Bluney presets; Android9-audios picks random tracks by category with counts; Mark44928 now includes a static family project hub.
+- **Plusafetch 0.6.0** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. Includes `-w/--watch`, a `plusfet` alias, threshold alerts with `--check-alerts`, hooks and cooldowns, `--doctor` diagnostics, `--statusline` for tmux/prompts, and `--report` for a 30-sample trend of memory, swap, disk, load, battery and temperature — now with a standalone offline `--html-report`. CI green on clang/gcc/AppleClang.
+- **pkg-manager** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, a numbered text mode that takes over (with an explanation) if fzf ever breaks, `--why` / `--largest`, a read-only `--triage` report, a persisted health timeline, a standalone visual `--health-dashboard`, `--lock` / `--restore-lock` exact pins, and scriptable package profiles.
+- **Pythonator 0.5.0** — pure-Python Plusalator sibling: Pyfiglet banner, exact 18-tone theme tables, raw-mode line editor with ghost autosuggest, memory slots, hex/bin/sci output, stats/primes/factorization/tables/ASCII plots, complex numbers with `i`/`arg`/`re`/`im`/`conj`, `explain <expr>` parsed expression trees, and `--eval`/`--json` for scripts. Includes distributions, determinants, number-theory helpers and a shared parity corpus. No dependencies.
+- **Fresh this week** — CalculaHTML gained a Simpson-estimated graph area; SnakTUI gained derived achievements; Pythonator/Plusalator gained distributions and small-matrix helpers; Plusafetch renders a standalone `--html-report`; pkg-manager gained a visual `--health-dashboard`; NoNameOS gained `motd`; Android9-audios gained an offline searchable catalog; Anti-bloatware gained printable risk reports; android12-fastfetch gained a SnakTUI preset; Greenit/Bluney galleries are searchable; Grub Blasters records all-time match results.
 - NoNameOS gained real `sha256sum`/`stat` commands plus a piped-REPL smoke
   suite, Plusalator gained memory slots, angle units and output radix modes,
   and Android9-audios ships per-file checksums with a verify script.
@@ -191,14 +191,14 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 📦 Easy-Termux-Package-Manager · MIT
-**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 18 built-in themes (including Greenit and Bluney) + a custom theme editor, a theme inspector explaining repo origin and manual/auto reason, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score with a persisted timeline, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`, `--why`, `--largest`, `--triage`, `--health-history`, `--lock`, `--restore-lock`, `--profiles`, `--profile-apply`) — 193 tests.
+**fzf-driven interactive package manager for Termux** — a friendlier face for `pkg`/`apt` without touching the raw commands. 57 menu entries + Exit, 18 built-in themes (including Greenit and Bluney) + a custom theme editor, a theme inspector explaining repo origin and manual/auto reason, live package-info preview panes, automated backup/restore, package pin/hold, a system-audit health score with a persisted timeline and a standalone visual `--health-dashboard`, SHA-256-verified self-update, and a scriptable CLI (`--check-updates`, `--quiet`, `--doctor`, `--why`, `--largest`, `--triage`, `--health-history`, `--health-dashboard`, `--lock`, `--restore-lock`, `--profiles`, `--profile-apply`) — 194 tests.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Easy-Termux-Package-Manager)
 
 ---
 
 ### 🖥️ NoNameOS · GPL-3.0
-**A complete OS simulation in one C++17 file.** Interactive shell, virtual filesystem, built-in utilities, Unicode-bordered boot menu, fake GRUB recovery mode, games and a machine-checkable `--selftest` — zero external dependencies. Single-file architecture, self-contained complexity, and a genuinely fun way to learn systems concepts.
+**A complete OS simulation in one C++17 file.** Interactive shell, virtual filesystem, built-in utilities, Unicode-bordered boot menu, fake GRUB recovery mode, games, deterministic `motd` tips and a machine-checkable `--selftest` — zero external dependencies. Single-file architecture, self-contained complexity, and a genuinely fun way to learn systems concepts.
 
 <img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20260524-150528~2.png" width="520" alt="NoNameOS screenshot" />
 
@@ -209,7 +209,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🐍 SnakTUI · MIT
-**A Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost, Frenzy, Magnet), golden apples, eleven themes, a live custom palette editor, accessibility mode, three difficulties, a persistent local leaderboard, and a translucent best-run ghost trail, all in pure Unicode blocks.
+**A Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost, Frenzy, Magnet), golden apples, eleven themes, a live custom palette editor, accessibility mode, three difficulties, a persistent local leaderboard with derived achievement badges, a translucent best-run ghost trail and a dependency-free browser build, all in pure Unicode blocks.
 
 > Cinematic effects — glow, screen shake, floating score popups — with a layout that adapts to your terminal.
 
@@ -218,7 +218,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🔢 CalculaHTML · MIT
-**A single-file HTML calculator with 15 themes plus a System mode (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape with CSV export, workspace share links, a `?` shortcut overlay, animated `f(x, t)` graphs, and full responsiveness.**
+**A single-file HTML calculator with 15 themes plus a System mode (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape with CSV export, workspace share links, a `?` shortcut overlay, animated `f(x, t)` graphs with Simpson-estimated area, and full responsiveness.**
 
 [![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7BD88F?style=for-the-badge&logo=githubpages&logoColor=0C1F17)](https://mark44928.github.io/CalculaHTML/)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/CalculaHTML)
@@ -226,7 +226,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🧮 Plusalator · MIT
-**Fancy interactive C++17 calculator REPL for Termux** — standard library only, single binary. Qalculate-flavored engine: postfix percent (`%`), right-assoc `^` (`-2^2=-4`), implicit multiplication, user functions with depth-capped recursion, and fuzz-gated so it never crashes. Ghost autosuggest, transient prompt with `⟨ plusa ⟩ ➤` ornament, 18 truecolor palettes, memory slots (`ms`/`mr`/`m+`), angle units (`deg`/`rad`/`grad`), and output radix modes (`mode hex|bin|sci`) — 171 assertions in the test gate.
+**Fancy interactive C++17 calculator REPL for Termux** — standard library only, single binary. Qalculate-flavored engine: postfix percent (`%`), right-assoc `^` (`-2^2=-4`), implicit multiplication, user functions with depth-capped recursion, and fuzz-gated so it never crashes. Ghost autosuggest, transient prompt with `⟨ plusa ⟩ ➤` ornament, 18 truecolor palettes, memory slots (`ms`/`mr`/`m+`), angle units (`deg`/`rad`/`grad`), output radix modes (`mode hex|bin|sci`), distributions and small-matrix helpers — 186 assertions in the test gate.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Plusalator)
 
@@ -263,7 +263,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🔊 Android 9 (Pie) Audios · MIT
-**All 217 stock Android 9 system sounds** — ringtones, alarms, notifications, UI sounds — in one portable ~8.3 MB archive, with per-file SHA-256 checksums and a one-command extract-and-verify script. Perfect for custom ROMs and audio projects.
+**All 217 stock Android 9 system sounds** — ringtones, alarms, notifications, UI sounds — in one portable ~8.3 MB archive, with per-file SHA-256 checksums, a one-command extract-and-verify script and an offline searchable `catalog.html`. Perfect for custom ROMs and audio projects.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Android9-audios)
 
