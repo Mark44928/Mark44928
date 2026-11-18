@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0C1F17,50:122A1F,100:7BD88F&amp;height=210&amp;section=header&amp;text=Mark44928&amp;fontSize=64&amp;fontColor=7BD88F&amp;animation=twinkling&amp;fontAlignY=34&amp;desc=Systems%20%E2%80%A2%20Termux%20%E2%80%A2%20Android&amp;descAlignY=54&amp;descSize=18" width="100%" alt="Mark44928" />
 
-<img src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/avatar.png" width="150" alt="Octocat" />
+<img src="assets/logo.svg" width="760" alt="Mark44928 logo" />
+
+<img src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/avatar.png" width="150" alt="Mark44928 profile picture" />
 
 # Hi, I'm Markzz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
 
@@ -53,7 +55,42 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 | a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [Pythonator](https://github.com/Mark44928/Pythonator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) |
 | less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [Anti-bloatware for Android TV](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted) |
 
-<p align="center"><a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#connect">Connect</a></p>
+<p align="center"><a href="#fleet">Fleet</a> · <a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#connect">Connect</a></p>
+
+---
+
+<a id="fleet"></a>
+## 🧩 Project fleet
+
+Fourteen standalone repositories, one visual family. Each logo is local to its project and links to the source.
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="https://github.com/Mark44928/SnakTUI"><img src="logos/snaktui.svg" alt="SnakTUI logo" width="100%"></a></td>
+    <td width="33%" align="center"><a href="https://github.com/Mark44928/GrubBlastersHTML"><img src="logos/grubblasters.svg" alt="Grub Blasters logo" width="100%"></a></td>
+    <td width="33%" align="center"><a href="https://github.com/Mark44928/CalculaHTML"><img src="logos/calculahtml.svg" alt="CalculaHTML logo" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Mark44928/Plusalator"><img src="logos/plusalator.svg" alt="Plusalator logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/Pythonator"><img src="logos/pythonator.svg" alt="Pythonator logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/Plusafetch"><img src="logos/plusafetch.svg" alt="Plusafetch logo" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Mark44928/Easy-Termux-Package-Manager"><img src="logos/pkg-manager.svg" alt="pkg-manager logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/NoNameOS"><img src="logos/nonameos.svg" alt="NoNameOS logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/Greenit"><img src="logos/greenit.svg" alt="Greenit logo" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Mark44928/Bluney"><img src="logos/bluney.svg" alt="Bluney logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/Android9-audios"><img src="logos/android9-audios.svg" alt="Android 9 Audios logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted"><img src="logos/anti-bloatware.svg" alt="Anti-Bloatware logo" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Mark44928/android12-fastfetch"><img src="logos/android12-fastfetch.svg" alt="android12-fastfetch logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/Mark44928"><img src="logos/mark44928.svg" alt="Mark44928 logo" width="100%"></a></td>
+    <td align="center"><sub><b>14 projects · 13 live homepages</b><br>one consistent family</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -226,7 +263,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🧮 Plusalator · MIT
-**Fancy interactive C++17 calculator REPL for Termux** — standard library only, single binary. Qalculate-flavored engine: postfix percent (`%`), right-assoc `^` (`-2^2=-4`), implicit multiplication, user functions with depth-capped recursion, and fuzz-gated so it never crashes. Ghost autosuggest, transient prompt with `⟨ plusa ⟩ ➤` ornament, 18 truecolor palettes, memory slots (`ms`/`mr`/`m+`), angle units (`deg`/`rad`/`grad`), output radix modes (`mode hex|bin|sci`), distributions and small-matrix helpers — 186 assertions in the test gate.
+**Fancy interactive C++17 calculator REPL for Termux** — standard library only, single binary. Qalculate-flavored engine: postfix percent (`%`), right-assoc `^` (`-2^2=-4`), implicit multiplication, user functions with depth-capped recursion, and fuzz-gated so it never crashes. Ghost autosuggest, transient prompt with `⟨ plusa ⟩ ➤` ornament, 18 truecolor palettes, memory slots (`ms`/`mr`/`m+`), angle units (`deg`/`rad`/`grad`), output radix modes (`mode hex|bin|sci`), distributions and small-matrix helpers — 190 assertions in the test gate.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Plusalator)
 
