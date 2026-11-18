@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Pythonator</title>
+  <desc id="d">Pythonator logo: a gold and blue snake loop around a plus sign.</desc>
+  <defs>
+    <linearGradient id="py" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFD43B"/>
+      <stop offset="1" stop-color="#61D7FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="#0B1020"/>
+  <rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#2C3960" stroke-width="2"/>
+  <circle cx="150" cy="150" r="96" fill="#111936" stroke="#29365B" stroke-width="2"/>
+  <path d="M111 90 C185 71 220 112 187 143 C153 175 96 165 95 204 C95 229 128 239 165 225" fill="none" stroke="url(#py)" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="111" cy="90" r="15" fill="#FFD43B"/><circle cx="106" cy="84" r="3.5" fill="#0B1020"/>
+  <path d="M153 128v46M130 151h46" stroke="#F4F3FF" stroke-width="7" stroke-linecap="round"/>
+  <text x="312" y="156" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="88" font-weight="800" letter-spacing="4" fill="#F6FAFF">PYTHONATOR</text>
+  <text x="316" y="205" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="4" fill="#91A4D8">CALCULATOR · PURE PYTHON</text>
+  <text x="1138" y="252" text-anchor="end" font-family="ui-monospace,monospace" font-size="14" letter-spacing="3" fill="#52638A">MARK44928</text>
+</svg>

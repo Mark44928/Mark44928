@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Greenit</title>
+  <desc id="d">Minimal Greenit logo: a flat green leaf beside the GREENIT wordmark on a dark green panel.</desc>
+  <rect width="1200" height="300" rx="28" fill="#0C1F17"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="27.25" fill="none" stroke="#2F6B4C" stroke-opacity="0.6" stroke-width="1.5"/>
+
+  <g transform="translate(150 150)">
+    <path d="M0,-86 C 62,-32 70,24 54,72 C 40,110 -40,110 -54,72 C -70,24 -62,-32 0,-86 Z"
+          fill="#7BD88F"/>
+    <path d="M0,-58 C 8,-8 8,34 0,76" fill="none" stroke="#0C1F17" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <text x="330" y="158" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="96" font-weight="700" letter-spacing="12" fill="#DEF4E5">GREENIT</text>
+  <text x="334" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="5" fill="#8FB39B">TERMINAL · EDITOR · SHELL</text>
+</svg>
