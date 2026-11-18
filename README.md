@@ -209,7 +209,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 ---
 
 ### 🐍 SnakTUI · MIT
-**A Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost, Frenzy, Magnet), golden apples, eleven themes, a live custom palette editor, accessibility mode, three difficulties, a persistent local leaderboard with derived achievement badges, a translucent best-run ghost trail and a dependency-free browser build, all in pure Unicode blocks.
+**A Snake game for your terminal** — Python + Textual. Neon gradients, particle bursts, combo multipliers up to x5, power-ups (Speed, Slow, Ghost, Frenzy, Magnet), golden apples, eleven themes, a live custom palette editor, accessibility mode, three difficulties, a persistent local leaderboard with derived achievement badges, a translucent best-run ghost trail, and optional real browser hosting through `textual-serve` on an external Python host.
 
 > Cinematic effects — glow, screen shake, floating score popups — with a layout that adapts to your terminal.
 
