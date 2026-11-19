@@ -18,7 +18,7 @@
 
 **[Open the project hub →](https://mark44928.github.io/Mark44928/)** — every project, one page, no JavaScript.
 
-**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [Anti-bloatware](https://mark44928.github.io/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
+**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [Anti-bloatware](https://mark44928.github.io/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
 
 <p>
   <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7BD88F" alt="Followers"></a>
@@ -50,9 +50,9 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 
 | If you want… | Open |
 |---|---|
-| a terminal that matches your setup | [Greenit](https://github.com/Mark44928/Greenit) · [Bluney](https://github.com/Mark44928/Bluney) · [Plusafetch](https://github.com/Mark44928/Plusafetch) · [android12-fastfetch](https://github.com/Mark44928/android12-fastfetch) |
+| a terminal that matches your setup | [Greenit](https://github.com/Mark44928/Greenit) · [Bluney](https://github.com/Mark44928/Bluney) · [Yellen](https://github.com/Mark44928/Yellen) · [Plusafetch](https://github.com/Mark44928/Plusafetch) · [android12-fastfetch](https://github.com/Mark44928/android12-fastfetch) |
 | a game for a coffee break | [Grub Blasters](https://github.com/Mark44928/GrubBlastersHTML) · [SnakTUI](https://github.com/Mark44928/SnakTUI) |
-| a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [Pythonator](https://github.com/Mark44928/Pythonator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) |
+| a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [Pythonator](https://github.com/Mark44928/Pythonator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) · [Solvamath](https://github.com/Mark44928/Solvamath) |
 | less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [Anti-bloatware for Android TV](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted) |
 
 <p align="center"><a href="#fleet">Fleet</a> · <a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#connect">Connect</a></p>
@@ -62,7 +62,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <a id="fleet"></a>
 ## 🧩 Project fleet
 
-Fourteen standalone repositories, one visual family. Each logo is local to its project and links to the source.
+Sixteen standalone repositories, one visual family. Each logo is local to its project and links to the source.
 
 <table>
   <tr>
@@ -88,7 +88,12 @@ Fourteen standalone repositories, one visual family. Each logo is local to its p
   <tr>
     <td align="center"><a href="https://github.com/Mark44928/android12-fastfetch"><img src="logos/android12-fastfetch.svg" alt="android12-fastfetch logo" width="100%"></a></td>
     <td align="center"><a href="https://github.com/Mark44928/Mark44928"><img src="logos/mark44928.svg" alt="Mark44928 logo" width="100%"></a></td>
-    <td align="center"><sub><b>14 projects · 13 live homepages</b><br>one consistent family</sub></td>
+    <td align="center"><a href="https://github.com/Mark44928/Solvamath"><img src="logos/solvamath.svg" alt="Solvamath logo" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Mark44928/Yellen"><img src="logos/yellen.svg" alt="Yellen logo" width="100%"></a></td>
+    <td align="center"><sub><b>16 projects · 15 live homepages</b><br>one consistent family</sub></td>
+    <td></td>
   </tr>
 </table>
 
@@ -107,13 +112,13 @@ Fourteen standalone repositories, one visual family. Each logo is local to its p
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Plusalator"><img src="https://raw.githubusercontent.com/Mark44928/Plusalator/master/docs/screenshot.png" alt="Plusalator REPL" width="100%"></a>
-      <br><sub><b>Plusalator</b> — C++17 calculator REPL: ASCII plots, CSV/JSON output, 18 themes</sub>
+      <br><sub><b>Plusalator</b> — C++17 calculator REPL: ASCII plots, CSV/JSON output, 19 themes</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/CalculaHTML"><img src="https://raw.githubusercontent.com/Mark44928/CalculaHTML/main/assets/preview.svg" alt="CalculaHTML preview" width="100%"></a>
-      <br><sub><b>CalculaHTML</b> — PWA calculator: 15 themes, animated f(x) graphs, graph presets, unit converter</sub>
+      <br><sub><b>CalculaHTML</b> — PWA calculator: 16 themes, animated f(x) graphs, graph presets, unit converter</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mark44928/Easy-Termux-Package-Manager"><img src="https://raw.githubusercontent.com/Mark44928/Easy-Termux-Package-Manager/master/docs/menu.png" alt="pkg-manager menu" width="100%"></a>
@@ -154,7 +159,8 @@ Fourteen standalone repositories, one visual family. Each logo is local to its p
 - **Plusafetch 0.6.0** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. Includes `-w/--watch`, a `plusfet` alias, threshold alerts with `--check-alerts`, hooks and cooldowns, `--doctor` diagnostics, `--statusline` for tmux/prompts, and `--report` for a 30-sample trend of memory, swap, disk, load, battery and temperature — now with a standalone offline `--html-report`. CI green on clang/gcc/AppleClang.
 - **pkg-manager** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, a numbered text mode that takes over (with an explanation) if fzf ever breaks, `--why` / `--largest`, a read-only `--triage` report, a persisted health timeline, a standalone visual `--health-dashboard`, `--lock` / `--restore-lock` exact pins, and scriptable package profiles.
 - **Pythonator 0.5.0** — pure-Python Plusalator sibling: Pyfiglet banner, exact 18-tone theme tables, raw-mode line editor with ghost autosuggest, memory slots, hex/bin/sci output, stats/primes/factorization/tables/ASCII plots, complex numbers with `i`/`arg`/`re`/`im`/`conj`, `explain <expr>` parsed expression trees, and `--eval`/`--json` for scripts. Includes distributions, determinants, number-theory helpers and a shared parity corpus. No dependencies.
-- **Fresh this week** — CalculaHTML gained a Simpson-estimated graph area; SnakTUI gained derived achievements; Pythonator/Plusalator gained distributions and small-matrix helpers; Plusafetch renders a standalone `--html-report`; pkg-manager gained a visual `--health-dashboard`; NoNameOS gained `motd`; Android9-audios gained an offline searchable catalog; Anti-bloatware gained printable risk reports; android12-fastfetch gained a SnakTUI preset; Greenit/Bluney galleries are searchable; Grub Blasters records all-time match results.
+- **New:** **Solvamath** — a Python + Textual math puzzle game with 7 puzzle families, 4 modes, streaks, hints, achievements and local records. Also available in Bluney colors.
+- **Fresh this week** — Solvamath is a new Python + Textual math puzzle game; Yellen joins Greenit and Bluney as the golden-yellow theme family; CalculaHTML gained a Simpson-estimated graph area and Bluney theme; Pythonator/Plusalator gained distributions, small-matrix helpers and Bluney; NoNameOS gained `motd` and Bluney; Plusafetch renders a standalone `--html-report`; pkg-manager gained a visual `--health-dashboard`; Android9-audios gained an offline searchable catalog; Android TV gained printable risk reports; android12-fastfetch gained a SnakTUI preset; Greenit/Bluney galleries are searchable; Grub Blasters records all-time match results.
 - NoNameOS gained real `sha256sum`/`stat` commands plus a piped-REPL smoke
   suite, Plusalator gained memory slots, angle units and output radix modes,
   and Android9-audios ships per-file checksums with a verify script.
@@ -255,7 +261,7 @@ Fourteen standalone repositories, one visual family. Each logo is local to its p
 ---
 
 ### 🔢 CalculaHTML · MIT
-**A single-file HTML calculator with 15 themes plus a System mode (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape with CSV export, workspace share links, a `?` shortcut overlay, animated `f(x, t)` graphs with Simpson-estimated area, and full responsiveness.**
+**A single-file HTML calculator with 16 themes plus a System mode (Tokyo Night, Catppuccin, Gruvbox, Nord, Dracula…), scientific functions, memory registers, a history tape with CSV export, workspace share links, a `?` shortcut overlay, animated `f(x, t)` graphs with Simpson-estimated area, and full responsiveness.**
 
 [![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7BD88F?style=for-the-badge&logo=githubpages&logoColor=0C1F17)](https://mark44928.github.io/CalculaHTML/)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/CalculaHTML)
@@ -274,6 +280,14 @@ Fourteen standalone repositories, one visual family. Each logo is local to its p
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Mark44928/Pythonator/ci.yml?branch=main&label=CI&logo=github&color=7BD88F&style=for-the-badge)](https://github.com/Mark44928/Pythonator/actions/workflows/ci.yml)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Pythonator)
+
+---
+
+### ∑ Solvamath · MIT
+**Solvamath is a real terminal math puzzle game** built with Python and Textual: equation solving, missing operators, sequences, primes and Make 24 puzzles across Campaign, Daily, Endless and Zen modes. Includes timers, lives, streak multipliers, hints, achievements, five themes, a local scoreboard and a headless stats CLI.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/Mark44928/Solvamath/ci.yml?branch=main&label=CI&logo=github&color=7DBBFF&style=for-the-badge)](https://github.com/Mark44928/Solvamath/actions/workflows/ci.yml)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0E1B2E?style=for-the-badge&logo=github&logoColor=7DBBFF)](https://github.com/Mark44928/Solvamath)
 
 ---
 
@@ -308,7 +322,7 @@ Fourteen standalone repositories, one visual family. Each logo is local to its p
 
 <p align="center"><img src="https://raw.githubusercontent.com/Mark44928/Greenit/master/assets/logo.svg" width="360" alt="Greenit"></p>
 
-**Green-injected terminal, editor, shell and app theme family (dark + light).** 30 integrations rendered from a single `palette.json` by a tiny stdlib-only Python generator — Termux, Kitty, Alacritty, Ghostty, WezTerm, foot, iTerm2, Windows Terminal, Vim/Neovim, Emacs, Helix, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less.
+**Green-injected terminal, editor, shell and app theme family (dark + light).** 64 integrations rendered from a single `palette.json` by a tiny stdlib-only Python generator — Termux, Kitty, Alacritty, Ghostty, WezTerm, foot, iTerm2, Windows Terminal, Vim/Neovim, Emacs, Helix, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Greenit)
 
@@ -317,6 +331,12 @@ Fourteen standalone repositories, one visual family. Each logo is local to its p
 **Greenit's blue sibling — same support, same generator, bluer palette.** 64 artifacts rendered from one `palette.json` (dark `#0E1B2E` and light `#F0F5FB` variants): Termux, kitty, ghostty, alacritty, wezterm, foot, iTerm2, Windows Terminal, vim, Emacs, Helix, micro, bat, fzf, dircolors, eza/lsd, ripgrep, starship, tmux, zellij, lazygit, git, delta, nano, yazi, btop, fish, powerlevel10k, fastfetch, vivid and less — plus an offline [`gallery.html`](https://mark44928.github.io/Bluney/gallery.html).
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0E1B2E?style=for-the-badge&logo=github&logoColor=7DBBFF)](https://github.com/Mark44928/Bluney)
+
+<p align="center"><img src="https://raw.githubusercontent.com/Mark44928/Yellen/master/assets/logo.svg" width="360" alt="Yellen"></p>
+
+**Greenit's golden-yellow cousin — same generator and app coverage, warmer palette.** 64 artifacts rendered from one `palette.json` with dark `#171408` and light `#FBF6DE` variants, plus a searchable offline [gallery](https://mark44928.github.io/Yellen/gallery.html).
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-171408?style=for-the-badge&logo=github&logoColor=F2D14E)](https://github.com/Mark44928/Yellen)
 
 ---
 
