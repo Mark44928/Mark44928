@@ -18,7 +18,7 @@
 
 **[Open the project hub →](https://mark44928.github.io/Mark44928/)** — every project, one page, no JavaScript.
 
-**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Fluffless Prompt](https://mark44928.github.io/FlufflessPrompt/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [debloat-android-tv](https://mark44928.github.io/debloat-android-tv/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
+**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Fluffless Prompt](https://mark44928.github.io/FlufflessPrompt/) · [Weatui](https://mark44928.github.io/Weatui/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [debloat-android-tv](https://mark44928.github.io/debloat-android-tv/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
 
 <p>
   <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7BD88F" alt="Followers"></a>
@@ -62,7 +62,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <a id="fleet"></a>
 ## 🧩 Project fleet
 
-Seventeen standalone repositories, one visual family. Each logo is local to its project and links to the source.
+Eighteen standalone repositories, one visual family. Each logo is local to its project and links to the source.
 
 <table>
   <tr>
@@ -93,7 +93,10 @@ Seventeen standalone repositories, one visual family. Each logo is local to its 
   <tr>
     <td align="center"><a href="https://github.com/Mark44928/Yellen"><img src="logos/yellen.svg?v=2" alt="Yellen logo" width="100%"></a></td>
     <td align="center"><a href="https://github.com/Mark44928/FlufflessPrompt"><img src="logos/fluffless.svg" alt="Fluffless Prompt logo" width="100%"></a></td>
-    <td align="center"><sub><b>17 projects · 16 live homepages</b><br>one consistent family</sub></td>
+    <td align="center"><a href="https://github.com/Mark44928/Weatui"><img src="logos/weatui.svg" alt="Weatui logo" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><sub><b>18 projects · 17 live homepages</b><br>one consistent family</sub></td>
   </tr>
 </table>
 
@@ -159,7 +162,7 @@ Seventeen standalone repositories, one visual family. Each logo is local to its 
 - **Plusafetch 0.6.0** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. Includes `-w/--watch`, a `plusfet` alias, threshold alerts with `--check-alerts`, hooks and cooldowns, `--doctor` diagnostics, `--statusline` for tmux/prompts, and `--report` for a 30-sample trend of memory, swap, disk, load, battery and temperature — now with a standalone offline `--html-report`. CI green on clang/gcc/AppleClang.
 - **pkg-manager** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, a numbered text mode that takes over (with an explanation) if fzf ever breaks, `--why` / `--largest`, a read-only `--triage` report, a persisted health timeline, a standalone visual `--health-dashboard`, `--lock` / `--restore-lock` exact pins, and scriptable package profiles.
 - **Pythonator 0.5.0** — pure-Python Plusalator sibling: Pyfiglet banner, exact 18-tone theme tables, raw-mode line editor with ghost autosuggest, memory slots, hex/bin/sci output, stats/primes/factorization/tables/ASCII plots, complex numbers with `i`/`arg`/`re`/`im`/`conj`, `explain <expr>` parsed expression trees, and `--eval`/`--json` for scripts. Includes distributions, determinants, number-theory helpers and a shared parity corpus. No dependencies.
-- **New:** **Fluffless Prompt** — a quiet Oh My Zsh minimalism theme with Git state, failure codes and a small clock; no boxes, no glyphs, no retro phosphor cosplay. Also **Solvamath** — a Python + Textual math puzzle game with 7 puzzle families, 4 modes, streaks, hints, achievements and local records. Also available in Bluney colors.
+- **New:** **Weatui** — a friendly Open-Meteo weather TUI with saved cities, a seven-day table, next-hours strip and C/F units. Also **Fluffless Prompt** — a quiet Oh My Zsh minimalism theme with Git state, failure codes and a small clock; no boxes, no glyphs, no retro phosphor cosplay. Also **Solvamath** — a Python + Textual math puzzle game with 7 puzzle families, 4 modes, streaks, hints, achievements and local records. Also available in Bluney colors.
 - **Fresh this week** — Solvamath is a new Python + Textual math puzzle game; Yellen joins Greenit and Bluney as the golden-yellow theme family; CalculaHTML gained a Simpson-estimated graph area and Bluney theme; Pythonator/Plusalator gained distributions, small-matrix helpers and Bluney; NoNameOS gained `motd` and Bluney; Plusafetch renders a standalone `--html-report`; pkg-manager gained a visual `--health-dashboard`; Android9-audios gained an offline searchable catalog; Android TV gained printable risk reports; android12-fastfetch gained a SnakTUI preset; Greenit/Bluney galleries are searchable; Grub Blasters records all-time match results.
 - NoNameOS gained real `sha256sum`/`stat` commands plus a piped-REPL smoke
   suite, Plusalator gained memory slots, angle units and output radix modes,
@@ -288,6 +291,14 @@ Seventeen standalone repositories, one visual family. Each logo is local to its 
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Mark44928/Solvamath/ci.yml?branch=main&label=CI&logo=github&color=7DBBFF&style=for-the-badge)](https://github.com/Mark44928/Solvamath/actions/workflows/ci.yml)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0E1B2E?style=for-the-badge&logo=github&logoColor=7DBBFF)](https://github.com/Mark44928/Solvamath)
+
+---
+
+### ☁ Weatui · MIT
+**A friendly terminal weather app powered by Open-Meteo** — saved cities, current conditions, seven-day and next-hours forecasts in a Textual TUI. Celsius/Fahrenheit, four themes, city search, config in `~/.config/weatui/config.json`, automatic refresh. No API key, no account and no telemetry.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/Mark44928/Weatui/ci.yml?branch=main&label=CI&logo=github&color=7DBBFF&style=for-the-badge)](https://github.com/Mark44928/Weatui/actions/workflows/ci.yml)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0E1B2E?style=for-the-badge&logo=github&logoColor=7DBBFF)](https://github.com/Mark44928/Weatui)
 
 ---
 
