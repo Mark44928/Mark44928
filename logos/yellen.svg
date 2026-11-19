@@ -5,7 +5,7 @@
   <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="27.25" fill="none" stroke="#6E5B25" stroke-opacity=".8" stroke-width="1.5"/>
   <g transform="translate(150 150)">
     <g stroke="#F2D14E" stroke-width="7" stroke-linecap="round">
-      <path d="M0-96V-82M0 82v14M-96 0h14M82 0h14M-68-68l10 10M58 58l10 10M-68 68l10-10M58-58l10 10"/>
+      <path d="M0-96V-82M0 82v14M-96 0h14M82 0h14M-68-68l10 10M68-68l-10 10M-68 68l10-10M68 68l-10-10"/>
     </g>
     <circle r="72" fill="#24200C" stroke="#6E5B25" stroke-width="3"/>
     <path d="M-31-33L0 7l31-40M0 7v34" fill="none" stroke="#F2D14E" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
