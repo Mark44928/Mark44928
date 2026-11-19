@@ -18,7 +18,7 @@
 
 **[Open the project hub →](https://mark44928.github.io/Mark44928/)** — every project, one page, no JavaScript.
 
-**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [Anti-bloatware](https://mark44928.github.io/debloat-android-tv/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
+**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Fluffless Prompt](https://mark44928.github.io/FlufflessPrompt/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [debloat-android-tv](https://mark44928.github.io/debloat-android-tv/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
 
 <p>
   <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7BD88F" alt="Followers"></a>
@@ -53,7 +53,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 | a terminal that matches your setup | [Greenit](https://github.com/Mark44928/Greenit) · [Bluney](https://github.com/Mark44928/Bluney) · [Yellen](https://github.com/Mark44928/Yellen) · [Plusafetch](https://github.com/Mark44928/Plusafetch) · [android12-fastfetch](https://github.com/Mark44928/android12-fastfetch) |
 | a game for a coffee break | [Grub Blasters](https://github.com/Mark44928/GrubBlastersHTML) · [SnakTUI](https://github.com/Mark44928/SnakTUI) |
 | a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [Pythonator](https://github.com/Mark44928/Pythonator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) · [Solvamath](https://github.com/Mark44928/Solvamath) |
-| less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [Anti-bloatware for Android TV](https://github.com/Mark44928/debloat-android-tv) |
+| less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [debloat-android-tv](https://github.com/Mark44928/debloat-android-tv) |
 
 <p align="center"><a href="#fleet">Fleet</a> · <a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#connect">Connect</a></p>
 
@@ -62,7 +62,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <a id="fleet"></a>
 ## 🧩 Project fleet
 
-Sixteen standalone repositories, one visual family. Each logo is local to its project and links to the source.
+Seventeen standalone repositories, one visual family. Each logo is local to its project and links to the source.
 
 <table>
   <tr>
@@ -83,17 +83,17 @@ Sixteen standalone repositories, one visual family. Each logo is local to its pr
   <tr>
     <td align="center"><a href="https://github.com/Mark44928/Bluney"><img src="logos/bluney.svg" alt="Bluney logo" width="100%"></a></td>
     <td align="center"><a href="https://github.com/Mark44928/Android9-audios"><img src="logos/android9-audios.svg" alt="Android 9 Audios logo" width="100%"></a></td>
-    <td align="center"><a href="https://github.com/Mark44928/debloat-android-tv"><img src="logos/anti-bloatware.svg" alt="Anti-Bloatware logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/debloat-android-tv"><img src="logos/debloat-android-tv.svg" alt="debloat-android-tv logo" width="100%"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Mark44928/android12-fastfetch"><img src="logos/android12-fastfetch.svg" alt="android12-fastfetch logo" width="100%"></a></td>
     <td align="center"><a href="https://github.com/Mark44928/Mark44928"><img src="logos/mark44928.svg" alt="Mark44928 logo" width="100%"></a></td>
-    <td align="center"><a href="https://github.com/Mark44928/Solvamath"><img src="logos/solvamath.svg" alt="Solvamath logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/Solvamath"><img src="logos/solvamath.svg?v=2" alt="Solvamath logo" width="100%"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Mark44928/Yellen"><img src="logos/yellen.svg?v=2" alt="Yellen logo" width="100%"></a></td>
-    <td align="center"><sub><b>16 projects · 15 live homepages</b><br>one consistent family</sub></td>
-    <td></td>
+    <td align="center"><a href="https://github.com/Mark44928/FlufflessPrompt"><img src="logos/fluffless.svg" alt="Fluffless Prompt logo" width="100%"></a></td>
+    <td align="center"><sub><b>17 projects · 16 live homepages</b><br>one consistent family</sub></td>
   </tr>
 </table>
 
@@ -159,7 +159,7 @@ Sixteen standalone repositories, one visual family. Each logo is local to its pr
 - **Plusafetch 0.6.0** — my C++23 take on fastfetch: NDK property service for Android (zero subprocess on the default path, ~23 ms on a Helio P22), `std::jthread` parallel detection, `std::expected` everywhere, no logo, no network. Includes `-w/--watch`, a `plusfet` alias, threshold alerts with `--check-alerts`, hooks and cooldowns, `--doctor` diagnostics, `--statusline` for tmux/prompts, and `--report` for a 30-sample trend of memory, swap, disk, load, battery and temperature — now with a standalone offline `--html-report`. CI green on clang/gcc/AppleClang.
 - **pkg-manager** — 57 numbered entries + Back/Exit split everywhere, live ask_name package picker, snapshot-restore path guard against archive extraction attacks, symlink-proof backups, and audit/doctor commands that fail loudly instead of reporting "all clear" on apt errors — plus a not-installed-only install list with a pre-flight batch summary, uninstall's own finder, ESC that cancels everywhere, a numbered text mode that takes over (with an explanation) if fzf ever breaks, `--why` / `--largest`, a read-only `--triage` report, a persisted health timeline, a standalone visual `--health-dashboard`, `--lock` / `--restore-lock` exact pins, and scriptable package profiles.
 - **Pythonator 0.5.0** — pure-Python Plusalator sibling: Pyfiglet banner, exact 18-tone theme tables, raw-mode line editor with ghost autosuggest, memory slots, hex/bin/sci output, stats/primes/factorization/tables/ASCII plots, complex numbers with `i`/`arg`/`re`/`im`/`conj`, `explain <expr>` parsed expression trees, and `--eval`/`--json` for scripts. Includes distributions, determinants, number-theory helpers and a shared parity corpus. No dependencies.
-- **New:** **Solvamath** — a Python + Textual math puzzle game with 7 puzzle families, 4 modes, streaks, hints, achievements and local records. Also available in Bluney colors.
+- **New:** **Fluffless Prompt** — a quiet Oh My Zsh minimalism theme with Git state, failure codes and a small clock; no boxes, no glyphs, no retro phosphor cosplay. Also **Solvamath** — a Python + Textual math puzzle game with 7 puzzle families, 4 modes, streaks, hints, achievements and local records. Also available in Bluney colors.
 - **Fresh this week** — Solvamath is a new Python + Textual math puzzle game; Yellen joins Greenit and Bluney as the golden-yellow theme family; CalculaHTML gained a Simpson-estimated graph area and Bluney theme; Pythonator/Plusalator gained distributions, small-matrix helpers and Bluney; NoNameOS gained `motd` and Bluney; Plusafetch renders a standalone `--html-report`; pkg-manager gained a visual `--health-dashboard`; Android9-audios gained an offline searchable catalog; Android TV gained printable risk reports; android12-fastfetch gained a SnakTUI preset; Greenit/Bluney galleries are searchable; Grub Blasters records all-time match results.
 - NoNameOS gained real `sha256sum`/`stat` commands plus a piped-REPL smoke
   suite, Plusalator gained memory slots, angle units and output radix modes,
@@ -224,7 +224,7 @@ Sixteen standalone repositories, one visual family. Each logo is local to its pr
 ## 🚀 Featured Projects
 
 ### 🎮 Grub Blasters
-**Turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 72 IP-safe weapons (bazooka to Major Munch and Halo Strike), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, hot-seat multiplayer, replay GIF/JSON export, and setup-code sharing with QR codes.
+**Turn-based artillery in a single dependency-free HTML file.** 2–4 teams blast each other across procedurally generated, fully destructible terrain with 73 IP-safe weapons (bazooka to Major Munch and Halo Strike), a fuel-limited jetpack, floating islands, CPU opponents, shifting wind, a rising sea, hot-seat multiplayer, replay GIF/JSON export, and setup-code sharing with QR codes.
 
 > No dependencies. No build step. One file, any modern browser, desktop or phone.
 
@@ -284,10 +284,18 @@ Sixteen standalone repositories, one visual family. Each logo is local to its pr
 ---
 
 ### ∑ Solvamath · MIT
-**Solvamath is a real terminal math puzzle game** built with Python and Textual: equation solving, missing operators, sequences, primes and Make 24 puzzles across Campaign, Daily, Endless and Zen modes. Includes timers, lives, streak multipliers, hints, achievements, five themes, a local scoreboard and a headless stats CLI.
+**Solvamath is a real terminal math puzzle game** built with Python and Textual: equation solving, missing operators, sequences, primes and Make 24 puzzles across Campaign, Daily, Endless and Zen modes. Includes timers, lives, streak multipliers, hints, achievements, six themes, a local scoreboard and a headless stats CLI.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Mark44928/Solvamath/ci.yml?branch=main&label=CI&logo=github&color=7DBBFF&style=for-the-badge)](https://github.com/Mark44928/Solvamath/actions/workflows/ci.yml)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0E1B2E?style=for-the-badge&logo=github&logoColor=7DBBFF)](https://github.com/Mark44928/Solvamath)
+
+---
+
+### ❯ Fluffless Prompt · MIT
+**A quiet Oh My Zsh theme for people who want less chrome and more prompt.** It shows the current directory, Git branch and dirty state, exit codes, and a small right-side clock — with no glyph dependencies, boxes, ASCII pipes or retro phosphor cosplay. The theme caches Git checks for five seconds and ships as one readable Zsh file.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/Mark44928/FlufflessPrompt/ci.yml?branch=main&label=CI&logo=github&color=d2a04f&style=for-the-badge)](https://github.com/Mark44928/FlufflessPrompt/actions/workflows/ci.yml)
+[![View Repo](https://img.shields.io/badge/View%20Repo-1D1B18?style=for-the-badge&logo=github&logoColor=D2A04F)](https://github.com/Mark44928/FlufflessPrompt)
 
 ---
 
@@ -306,7 +314,7 @@ Sixteen standalone repositories, one visual family. Each logo is local to its pr
 
 ---
 
-### 📺 Anti-bloatware for Android TV · MIT
+### 📺 debloat-android-tv · MIT
 **Surgical ADB commands — plus bundled `debloat.sh` / `debloat-safe.sh` / `restore.sh` — to strip bloatware from rooted Android 9+ TV sticks and boxes.** Up to ~1.9 GB storage and 200 MB+ RAM reclaimed, measured on common sticks and boxes.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/debloat-android-tv)
