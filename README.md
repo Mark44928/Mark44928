@@ -18,7 +18,7 @@
 
 **[Open the project hub →](https://mark44928.github.io/Mark44928/)** — every project, one page, no JavaScript.
 
-**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [Anti-bloatware](https://mark44928.github.io/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
+**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [Anti-bloatware](https://mark44928.github.io/debloat-android-tv/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
 
 <p>
   <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7BD88F" alt="Followers"></a>
@@ -53,7 +53,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 | a terminal that matches your setup | [Greenit](https://github.com/Mark44928/Greenit) · [Bluney](https://github.com/Mark44928/Bluney) · [Yellen](https://github.com/Mark44928/Yellen) · [Plusafetch](https://github.com/Mark44928/Plusafetch) · [android12-fastfetch](https://github.com/Mark44928/android12-fastfetch) |
 | a game for a coffee break | [Grub Blasters](https://github.com/Mark44928/GrubBlastersHTML) · [SnakTUI](https://github.com/Mark44928/SnakTUI) |
 | a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [Pythonator](https://github.com/Mark44928/Pythonator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) · [Solvamath](https://github.com/Mark44928/Solvamath) |
-| less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [Anti-bloatware for Android TV](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted) |
+| less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [Anti-bloatware for Android TV](https://github.com/Mark44928/debloat-android-tv) |
 
 <p align="center"><a href="#fleet">Fleet</a> · <a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#connect">Connect</a></p>
 
@@ -83,7 +83,7 @@ Sixteen standalone repositories, one visual family. Each logo is local to its pr
   <tr>
     <td align="center"><a href="https://github.com/Mark44928/Bluney"><img src="logos/bluney.svg" alt="Bluney logo" width="100%"></a></td>
     <td align="center"><a href="https://github.com/Mark44928/Android9-audios"><img src="logos/android9-audios.svg" alt="Android 9 Audios logo" width="100%"></a></td>
-    <td align="center"><a href="https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted"><img src="logos/anti-bloatware.svg" alt="Anti-Bloatware logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/debloat-android-tv"><img src="logos/anti-bloatware.svg" alt="Anti-Bloatware logo" width="100%"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Mark44928/android12-fastfetch"><img src="logos/android12-fastfetch.svg" alt="android12-fastfetch logo" width="100%"></a></td>
@@ -309,7 +309,7 @@ Sixteen standalone repositories, one visual family. Each logo is local to its pr
 ### 📺 Anti-bloatware for Android TV · MIT
 **Surgical ADB commands — plus bundled `debloat.sh` / `debloat-safe.sh` / `restore.sh` — to strip bloatware from rooted Android 9+ TV sticks and boxes.** Up to ~1.9 GB storage and 200 MB+ RAM reclaimed, measured on common sticks and boxes.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/Anti-bloatware-list-for-Android-TV-Boxes-and-Sticks-for-rooted)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/debloat-android-tv)
 
 ---
 
