@@ -91,7 +91,7 @@ Sixteen standalone repositories, one visual family. Each logo is local to its pr
     <td align="center"><a href="https://github.com/Mark44928/Solvamath"><img src="logos/solvamath.svg" alt="Solvamath logo" width="100%"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Mark44928/Yellen"><img src="logos/yellen.svg" alt="Yellen logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/Yellen"><img src="logos/yellen.svg?v=2" alt="Yellen logo" width="100%"></a></td>
     <td align="center"><sub><b>16 projects · 15 live homepages</b><br>one consistent family</sub></td>
     <td></td>
   </tr>
