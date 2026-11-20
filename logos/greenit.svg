@@ -1,16 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
   <title id="t">Greenit</title>
-  <desc id="d">Greenit logo: a diagonal green leaf with a stem and single central vein beside the GREENIT wordmark on a dark green panel.</desc>
-  <rect width="1200" height="300" rx="28" fill="#0C1F17"/>
-  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="27.25" fill="none" stroke="#2F6B4C" stroke-opacity="0.6" stroke-width="1.5"/>
-
-  <g transform="translate(150 150)">
-    <path d="M-64 56 Q-78 68 -82 84" fill="none" stroke="#7BD88F" stroke-width="7" stroke-linecap="round"/>
-    <path d="M-64 56 C-38 0 8 -50 68 -72 C64 -16 28 39 -64 56 Z" fill="#7BD88F"/>
-    <path d="M-60 52 C-24 20 16 -28 63 -68" fill="none" stroke="#0C1F17" stroke-width="5" stroke-linecap="round"/>
-    <path d="M-28 26 L-43 20 M-4 1 L-13 -20 M22 -24 L38 -23" fill="none" stroke="#0C1F17" stroke-width="3.5" stroke-linecap="round"/>
+  <desc id="d">Minimal Greenit logo: a green leaf outline and a dark wordmark.</desc>
+  <rect width="1200" height="300" rx="28" fill="#0B0D12"/>
+  <g fill="none" stroke="#7BD88F" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 214 C94 184 94 112 150 88 C206 112 206 184 150 214 Z"/>
+    <path d="M150 104 V198"/>
   </g>
-
-  <text x="330" y="158" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="96" font-weight="700" letter-spacing="12" fill="#DEF4E5">GREENIT</text>
-  <text x="334" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="5" fill="#8FB39B">TERMINAL · EDITOR · SHELL</text>
+  <text x="300" y="180" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="92" font-weight="650" letter-spacing="-2" fill="#F5F7FA">Greenit</text>
 </svg>
