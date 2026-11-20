@@ -6,6 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/Mark44928/Mark44928/main/avatar.png" width="150" alt="Mark44928 profile picture" />
 
+<img src="docs/screenshot-hub.png" width="760" alt="Mark44928 project hub" />
+
 # Hi, I'm Markzz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
 
 <a href="https://git.io/typing-svg">
@@ -120,7 +122,7 @@ Eighteen standalone repositories, one visual family. Each logo is local to its p
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Mark44928/CalculaHTML"><img src="https://raw.githubusercontent.com/Mark44928/CalculaHTML/main/assets/preview.svg" alt="CalculaHTML preview" width="100%"></a>
+      <a href="https://github.com/Mark44928/CalculaHTML"><img src="https://raw.githubusercontent.com/Mark44928/CalculaHTML/main/docs/screenshot.png" alt="CalculaHTML calculator" width="100%"></a>
       <br><sub><b>CalculaHTML</b> — PWA calculator: 16 themes, animated f(x) graphs, graph presets, unit converter</sub>
     </td>
     <td width="50%" align="center">
@@ -152,6 +154,47 @@ Eighteen standalone repositories, one visual family. Each logo is local to its p
     <td width="100%" colspan="2" align="center">
       <a href="https://github.com/Mark44928/NoNameOS"><img src="https://raw.githubusercontent.com/Mark44928/NoNameOS/main/Screenshot_20261113-0633.png" alt="NoNameOS shell" width="50%"></a>
       <br><sub><b>NoNameOS</b> — Single-file C++17 OS simulation with a real shell</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Mark44928/GrubBlastersHTML"><img src="https://raw.githubusercontent.com/Mark44928/GrubBlastersHTML/main/docs/screenshot-menu.png" alt="Grub Blasters menu" width="100%"></a>
+      <br><sub><b>Grub Blasters</b> — turn-based artillery menu</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Mark44928/Weatui"><img src="https://raw.githubusercontent.com/Mark44928/Weatui/main/docs/screenshot-weather.png" alt="Weatui weather" width="100%"></a>
+      <br><sub><b>Weatui</b> — Open-Meteo weather TUI</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Mark44928/Solvamath"><img src="https://raw.githubusercontent.com/Mark44928/Solvamath/main/docs/menu.png" alt="Solvamath menu" width="100%"></a>
+      <br><sub><b>Solvamath</b> — terminal math puzzles</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Mark44928/FlufflessPrompt"><img src="https://raw.githubusercontent.com/Mark44928/FlufflessPrompt/main/docs/screenshot-prompt.png" alt="Fluffless Prompt" width="100%"></a>
+      <br><sub><b>Fluffless Prompt</b> — quiet Oh My Zsh prompt</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Mark44928/Yellen"><img src="https://raw.githubusercontent.com/Mark44928/Yellen/main/docs/screenshot-terminal.png" alt="Yellen terminal theme" width="100%"></a>
+      <br><sub><b>Yellen</b> — golden terminal theme</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Mark44928/Android9-audios"><img src="https://raw.githubusercontent.com/Mark44928/Android9-audios/main/docs/screenshot-catalog.png" alt="Android9-audios catalog" width="100%"></a>
+      <br><sub><b>Android9-audios</b> — searchable sound catalog</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/debloat-android-tv"><img src="https://raw.githubusercontent.com/Mark44928/debloat-android-tv/main/docs/screenshot-audit.png" alt="debloat-android-tv audit" width="100%"></a>
+      <br><sub><b>debloat-android-tv</b> — read-only audit output</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Mark44928/Greenit"><img src="https://raw.githubusercontent.com/Mark44928/Greenit/master/docs/screenshot-terminal.png" alt="Greenit terminal theme" width="100%"></a>
+      <br><sub><b>Greenit / Bluney</b> — generated terminal themes</sub>
     </td>
   </tr>
 </table>
