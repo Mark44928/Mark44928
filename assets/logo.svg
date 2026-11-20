@@ -1,19 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
   <title id="t">Mark44928</title>
-  <desc id="d">Mark44928 logo: a green and blue M monogram on a dark panel.</desc>
-  <defs>
-    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#7BD88F"/>
-      <stop offset="1" stop-color="#7DBBFF"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="300" rx="28" fill="#08120D"/>
-  <rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#2E5B42" stroke-width="2"/>
-  <circle cx="150" cy="150" r="96" fill="#0D2418" stroke="#2B513B" stroke-width="2"/>
-  <circle cx="150" cy="150" r="69" fill="none" stroke="url(#mark)" stroke-width="4" stroke-dasharray="7 7"/>
-  <path d="M112 194V108l38 49 38-49v86" fill="none" stroke="url(#mark)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="216" cy="91" r="9" fill="#7DBBFF"/>
-  <text x="316" y="157" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="86" font-weight="800" letter-spacing="5" fill="#F0FFF5">MARK44928</text>
-  <text x="320" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="4" fill="#88B39A">TERMUX-FIRST OPEN SOURCE</text>
-  <text x="1138" y="252" text-anchor="end" font-family="ui-monospace,monospace" font-size="14" letter-spacing="3" fill="#4D6C5A">PROJECT FAMILY</text>
+  <desc id="d">Minimal Mark44928 logo: a green M monogram and a dark wordmark.</desc>
+  <rect width="1200" height="300" rx="28" fill="#0B0D12"/>
+  <path d="M92 205 V98 L150 158 L208 98 V205" fill="none" stroke="#7BD88F" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="300" y="180" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="92" font-weight="650" letter-spacing="-2" fill="#F5F7FA">Mark44928</text>
 </svg>

@@ -1,15 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
   <title id="t">Plusafetch</title>
-  <desc id="d">Plusafetch logo: a green terminal window with system data bars and a bolt.</desc>
-  <rect width="1200" height="300" rx="28" fill="#07131A"/>
-  <rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#1D4B56" stroke-width="2"/>
-  <circle cx="150" cy="150" r="96" fill="#0D2029" stroke="#23434E" stroke-width="2"/>
-  <rect x="77" y="79" width="146" height="128" rx="12" fill="#0A1A22" stroke="#63F29B" stroke-width="4"/>
-  <path d="M77 104h146" stroke="#63F29B" stroke-width="3"/>
-  <circle cx="94" cy="92" r="4" fill="#FF6B6B"/><circle cx="108" cy="92" r="4" fill="#FFD166"/><circle cx="122" cy="92" r="4" fill="#63F29B"/>
-  <path d="M94 121h39M94 137h62M94 153h49M94 169h75" stroke="#5FD9E8" stroke-width="5" stroke-linecap="round"/>
-  <path d="M191 130l-23 34h18l-9 27 27-38h-18z" fill="#63F29B"/>
-  <text x="314" y="153" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="88" font-weight="800" letter-spacing="4" fill="#E6FFF3">PLUSAFETCH</text>
-  <text x="318" y="202" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="4" fill="#78AFA0">SYSTEM FETCH · C++23 · TERMUX</text>
-  <text x="1138" y="252" text-anchor="end" font-family="ui-monospace,monospace" font-size="14" letter-spacing="3" fill="#486B61">MARK44928</text>
+  <desc id="d">Minimal Plusafetch logo: green data bars and a dark wordmark.</desc>
+  <rect width="1200" height="300" rx="28" fill="#0B0D12"/>
+  <g fill="none" stroke="#63C9A8" stroke-width="16" stroke-linecap="round">
+    <path d="M92 108 H208 M92 150 H176 M92 192 H144"/>
+  </g>
+  <text x="300" y="180" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="80" font-weight="650" letter-spacing="-2" fill="#F5F7FA">Plusafetch</text>
 </svg>

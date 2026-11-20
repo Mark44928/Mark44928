@@ -1,15 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
   <title id="t">Bluney</title>
-  <desc id="d">Minimal Bluney logo: a flat blue droplet beside the BLUNEY wordmark on a dark blue panel.</desc>
-  <rect width="1200" height="300" rx="28" fill="#0E1B2E"/>
-  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="27.25" fill="none" stroke="#2F5A86" stroke-opacity="0.65" stroke-width="1.5"/>
-
-  <g transform="translate(150 146)">
-    <path d="M0,-86 C 58,-38 66,32 38,76 C 20,104 -20,104 -38,76 C -66,32 -58,-38 0,-86 Z"
-          fill="#7DBBFF"/>
-    <ellipse cx="-17" cy="-30" rx="9" ry="18" transform="rotate(18 -17 -30)" fill="#E3EFF9" opacity="0.5"/>
-  </g>
-
-  <text x="330" y="158" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="96" font-weight="700" letter-spacing="12" fill="#E3EFF9">BLUNEY</text>
-  <text x="334" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="5" fill="#8FAFCF">TERMINAL · EDITOR · SHELL</text>
+  <desc id="d">Minimal Bluney logo: a blue droplet and a dark wordmark.</desc>
+  <rect width="1200" height="300" rx="28" fill="#0B0D12"/>
+  <path d="M150 86 C150 86 198 142 198 170 A48 48 0 0 1 102 170 C102 142 150 86 150 86 Z" fill="none" stroke="#7DBBFF" stroke-width="14" stroke-linejoin="round"/>
+  <text x="300" y="180" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="92" font-weight="650" letter-spacing="-2" fill="#F5F7FA">Bluney</text>
 </svg>
