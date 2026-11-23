@@ -6,7 +6,9 @@
 #   make clean    remove nothing (assets and HTML are checked in)
 
 PYTHON ?= python3
-export TMPDIR ?= /data/data/com.termux/files/usr/tmp
+# Respect $TMPDIR when set; fall back to Termux path on Android, /tmp on Linux.
+TMPDIR ?= $(shell if [ -n "$$TERMUX_VERSION" ]; then echo "/data/data/com.termux/files/usr/tmp"; else echo "/tmp"; fi)
+export TMPDIR
 
 .PHONY: check clean
 
