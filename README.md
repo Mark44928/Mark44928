@@ -200,6 +200,12 @@ Eighteen standalone repositories, one visual family. Each logo is local to its p
       <br><sub><b>Greenit / Bluney</b> — generated terminal themes</sub>
     </td>
   </tr>
+  <tr>
+    <td width="100%" colspan="2" align="center">
+      <a href="https://github.com/Mark44928/LinuBirth"><img src="https://raw.githubusercontent.com/Mark44928/LinuBirth/main/docs/screenshot.png" alt="LinuBirth" width="70%"></a>
+      <br><sub><b>LinuBirth</b> — pretty useless countdown to Linus Torvalds' birthday, with drifting Tuxes</sub>
+    </td>
+  </tr>
 </table>
 
 <a id="now"></a>
