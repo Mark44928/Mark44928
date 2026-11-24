@@ -20,7 +20,7 @@
 
 **[Open the project hub →](https://mark44928.github.io/Mark44928/)** — every project, one page, no JavaScript.
 
-**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Fluffless Prompt](https://mark44928.github.io/FlufflessPrompt/) · [Weatui](https://mark44928.github.io/Weatui/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [debloat-android-tv](https://mark44928.github.io/debloat-android-tv/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
+**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Fluffless Prompt](https://mark44928.github.io/FlufflessPrompt/) · [Weatui](https://mark44928.github.io/Weatui/) · [LinuBirth](https://mark44928.github.io/LinuBirth/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [debloat-android-tv](https://mark44928.github.io/debloat-android-tv/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
 
 <p>
   <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7BD88F" alt="Followers"></a>
@@ -53,7 +53,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 | If you want… | Open |
 |---|---|
 | a terminal that matches your setup | [Greenit](https://github.com/Mark44928/Greenit) · [Bluney](https://github.com/Mark44928/Bluney) · [Yellen](https://github.com/Mark44928/Yellen) · [Plusafetch](https://github.com/Mark44928/Plusafetch) · [android12-fastfetch](https://github.com/Mark44928/android12-fastfetch) |
-| a game for a coffee break | [Grub Blasters](https://github.com/Mark44928/GrubBlastersHTML) · [SnakTUI](https://github.com/Mark44928/SnakTUI) |
+| a game for a coffee break | [Grub Blasters](https://github.com/Mark44928/GrubBlastersHTML) · [SnakTUI](https://github.com/Mark44928/SnakTUI) · [LinuBirth](https://github.com/Mark44928/LinuBirth) |
 | a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [Pythonator](https://github.com/Mark44928/Pythonator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) · [Solvamath](https://github.com/Mark44928/Solvamath) |
 | less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [debloat-android-tv](https://github.com/Mark44928/debloat-android-tv) |
 
@@ -98,7 +98,10 @@ Eighteen standalone repositories, one visual family. Each logo is local to its p
     <td align="center"><a href="https://github.com/Mark44928/Weatui"><img src="logos/weatui.svg" alt="Weatui logo" width="100%"></a></td>
   </tr>
   <tr>
-    <td align="center" colspan="3"><sub><b>18 projects · 17 live homepages</b><br>one consistent family</sub></td>
+    <td align="center"><a href="https://github.com/Mark44928/LinuBirth"><img src="logos/linubirth.svg" alt="LinuBirth logo" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><sub><b>19 projects · 18 live homepages</b><br>one consistent family</sub></td>
   </tr>
 </table>
 
@@ -276,6 +279,16 @@ Eighteen standalone repositories, one visual family. Each logo is local to its p
 
 [![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7BD88F?style=for-the-badge&logo=githubpages&logoColor=0C1F17)](https://mark44928.github.io/GrubBlastersHTML/)
 [![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/GrubBlastersHTML)
+
+---
+
+### 🎂 LinuBirth · MIT
+**The pretty useless countdown to Linus Torvalds' birthday (December 28).** A tiny single-file fan site with cool human-looking visuals: a wobbling card, a portrait of Linus, four drifting Tuxes, bundled silly-but-good fonts (Comic Neue + Patrick Hand), and a confetti party when the big day arrives. SEO + Open Graph + Twitter cards, a share button, favicon, robots and sitemap baked in.
+
+> Zero dependencies. One HTML file. Any browser, desktop or phone.
+
+[![Play Now](https://img.shields.io/badge/▶%20Play%20Now-GitHub%20Pages-7BD88F?style=for-the-badge&logo=githubpages&logoColor=0C1F17)](https://mark44928.github.io/LinuBirth/)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0C1F17?style=for-the-badge&logo=github&logoColor=7BD88F)](https://github.com/Mark44928/LinuBirth)
 
 ---
 

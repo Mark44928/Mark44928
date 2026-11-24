@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">LinuBirth</title>
+  <desc id="d">LinuBirth logo: a Tux penguin with a birthday cake and the wordmark.</desc>
+  <rect width="1200" height="300" rx="28" fill="#0C1F17"/>
+  <ellipse cx="150" cy="172" rx="52" ry="64" fill="#fff"/>
+  <ellipse cx="150" cy="182" rx="34" ry="46" fill="#0C1F17"/>
+  <circle cx="150" cy="112" r="40" fill="#0C1F17"/>
+  <ellipse cx="150" cy="118" rx="18" ry="24" fill="#fff"/>
+  <circle cx="136" cy="108" r="5" fill="#0C1F17"/>
+  <circle cx="164" cy="108" r="5" fill="#0C1F17"/>
+  <polygon points="150,116 132,130 168,130" fill="#ffab40"/>
+  <ellipse cx="128" cy="234" rx="16" ry="7" fill="#ffab40"/>
+  <ellipse cx="172" cy="234" rx="16" ry="7" fill="#ffab40"/>
+  <rect x="214" y="172" width="60" height="44" rx="6" fill="#7BD88F"/>
+  <rect x="214" y="164" width="60" height="12" rx="6" fill="#ffab40"/>
+  <rect x="240" y="152" width="6" height="14" fill="#ffab40"/>
+  <circle cx="243" cy="150" r="5" fill="#e53935"/>
+  <text x="320" y="180" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="92" font-weight="650" letter-spacing="-2" fill="#7BD88F">LinuBirth</text>
+</svg>
