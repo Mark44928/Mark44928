@@ -1,0 +1,14 @@
+# .gitignore — Mark44928 (profile + hub)
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temp
+*.log
+.tmp/
