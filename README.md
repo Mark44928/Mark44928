@@ -1,7 +1,5 @@
 <div align="center">
 
-Inactive - on the vacation of Grandma's house
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0C1F17,50:122A1F,100:7BD88F&amp;height=210&amp;section=header&amp;text=Mark44928&amp;fontSize=64&amp;fontColor=7BD88F&amp;animation=twinkling&amp;fontAlignY=34&amp;desc=Systems%20%E2%80%A2%20Termux%20%E2%80%A2%20Android&amp;descAlignY=54&amp;descSize=18" width="100%" alt="Mark44928" />
 
 <img src="assets/logo.svg" width="760" alt="Mark44928 logo" />
