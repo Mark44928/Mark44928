@@ -57,7 +57,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 | a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [Pythonator](https://github.com/Mark44928/Pythonator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) · [Solvamath](https://github.com/Mark44928/Solvamath) |
 | less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [debloat-android-tv](https://github.com/Mark44928/debloat-android-tv) |
 
-<p align="center"><a href="#fleet">Fleet</a> · <a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#connect">Connect</a></p>
+<p align="center"><a href="#fleet">Fleet</a> · <a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#trophies">Trophies</a> · <a href="#activity">Activity</a> · <a href="#toolbox">Toolbox</a> · <a href="#connect">Connect</a></p>
 
 ---
 
@@ -473,6 +473,87 @@ Clear steps to reproduce are worth more than a vague bug report — and make fix
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=transparent" alt="Random developer quote" />
 
 </div>
+
+---
+
+<a id="trophies"></a>
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mark44928&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" alt="GitHub trophies" />
+
+</div>
+
+---
+
+<a id="activity"></a>
+## 📈 Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mark44928&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=Mark44928%27s%20Contribution%20Graph" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## ⭐ Star History
+
+<div align="center">
+
+<img width="100%" src="https://api.star-history.com/svg?repos=Mark44928/SnakTUI,Mark44928/GrubBlastersHTML,Mark44928/CalculaHTML,Mark44928/Plusafetch,Mark44928/NoNameOS,Mark44928/Plusalator,Mark44928/Pythonator,Mark44928/Solvamath,Mark44928/Weatui,Mark44928/LinuBirth&amp;type=Date" alt="Star history chart" />
+
+</div>
+
+---
+
+<a id="toolbox"></a>
+## 🧰 Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,bash,git,github,linux,vim,neovim,tmux,zsh,html,css,js,markdown,cmake,make,regex,postgres" alt="Tech stack" />
+
+</div>
+
+---
+
+## 🎲 Fun Facts
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🐧 Built a birthday countdown for Linus Torvalds with drifting Tuxes and a confetti party<br><br>
+💣 Packed a turn-based artillery game with a huge weapon roster into one HTML file<br><br>
+🖥️ Wrote an OS simulation — shell, VFS, games — in a single C++17 file<br><br>
+⚡ Built a C++23 system fetch that runs in milliseconds with zero subprocesses
+
+</td>
+<td width="50%" valign="top">
+
+🎨 Generated three terminal theme families from one `palette.json`<br><br>
+📦 Made a heavily-tested, hermetic package manager for Termux<br><br>
+🧮 Wrote two calculator REPLs — C++17 and pure Python<br><br>
+🐍 Added a snake that eats my contribution graph (it's in this README)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧭 The Journey
+
+| Era | What I was building |
+|---|---|
+| **Early days** | Termux scripts, dotfiles, and a lot of `bash -x` |
+| **Systems phase** | NoNameOS, Plusafetch — C++ that respects your RAM |
+| **Tooling phase** | pkg-manager, Plusalator, Pythonator — daily drivers |
+| **Play phase** | Grub Blasters, SnakTUI, Solvamath — games that run anywhere |
+| **Web phase** | CalculaHTML, LinuBirth — single-file sites, zero deps |
+| **Now** | Expanding the family, one small binary at a time |
 
 ---
 
