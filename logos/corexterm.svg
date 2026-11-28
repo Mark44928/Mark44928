@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">CorexTerm</title>
+  <desc id="d">CorexTerm logo: a terminal prompt with the wordmark.</desc>
+  <rect width="1200" height="300" rx="28" fill="#0C1F17"/>
+  <g transform="translate(70,90)">
+    <rect x="0" y="0" width="120" height="80" rx="10" fill="none" stroke="#7BD88F" stroke-width="8"/>
+    <path d="M20 30 l14 10 -14 10" fill="none" stroke="#7BD88F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="50" y1="50" x2="90" y2="50" stroke="#7BD88F" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="300" y="180" font-family="ui-sans-serif,system-ui,sans-serif" font-size="92" font-weight="650" letter-spacing="-2" fill="#7BD88F">CorexTerm</text>
+</svg>

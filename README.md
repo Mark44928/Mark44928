@@ -20,7 +20,7 @@
 
 **[Open the project hub →](https://mark44928.github.io/Mark44928/)** — every project, one page, no JavaScript.
 
-**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Fluffless Prompt](https://mark44928.github.io/FlufflessPrompt/) · [Weatui](https://mark44928.github.io/Weatui/) · [LinuBirth](https://mark44928.github.io/LinuBirth/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [debloat-android-tv](https://mark44928.github.io/debloat-android-tv/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
+**Individual homepages:** [SnakTUI](https://mark44928.github.io/SnakTUI/) · [Plusalator](https://mark44928.github.io/Plusalator/) · [Pythonator](https://mark44928.github.io/Pythonator/) · [Solvamath](https://mark44928.github.io/Solvamath/) · [Plusafetch](https://mark44928.github.io/plusafetch/) · [pkg-manager](https://mark44928.github.io/Easy-Termux-Package-Manager/) · [NoNameOS](https://mark44928.github.io/NoNameOS/) · [Greenit](https://mark44928.github.io/Greenit/) · [Bluney](https://mark44928.github.io/Bluney/) · [Yellen](https://mark44928.github.io/Yellen/) · [Fluffless Prompt](https://mark44928.github.io/FlufflessPrompt/) · [Weatui](https://mark44928.github.io/Weatui/) · [LinuBirth](https://mark44928.github.io/LinuBirth/) · [TuxMorph](https://mark44928.github.io/TuxMorph/) · [Passagen](https://mark44928.github.io/Passagen/) · [CorexTerm](https://mark44928.github.io/CorexTerm/) · [Android9-audios](https://mark44928.github.io/Android9-audios/) · [debloat-android-tv](https://mark44928.github.io/debloat-android-tv/) · [android12-fastfetch](https://mark44928.github.io/android12-fastfetch/)
 
 <p>
   <a href="https://github.com/Mark44928?tab=followers"><img src="https://img.shields.io/github/followers/Mark44928?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7BD88F" alt="Followers"></a>
@@ -64,7 +64,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 <a id="fleet"></a>
 ## 🧩 Project fleet
 
-Eighteen standalone repositories, one visual family. Each logo is local to its project and links to the source.
+Twenty-one standalone repositories, one visual family. Each logo is local to its project and links to the source.
 
 <table>
   <tr>
@@ -99,9 +99,14 @@ Eighteen standalone repositories, one visual family. Each logo is local to its p
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Mark44928/LinuBirth"><img src="logos/linubirth.svg" alt="LinuBirth logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/TuxMorph"><img src="logos/tuxmorph.svg" alt="TuxMorph logo" width="100%"></a></td>
+    <td align="center"><a href="https://github.com/Mark44928/Passagen"><img src="logos/passagen.svg" alt="Passagen logo" width="100%"></a></td>
   </tr>
   <tr>
-    <td align="center" colspan="3"><sub><b>19 projects · 18 live homepages</b><br>one consistent family</sub></td>
+    <td align="center"><a href="https://github.com/Mark44928/CorexTerm"><img src="logos/corexterm.svg" alt="CorexTerm logo" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><sub><b>21 projects · 20 live homepages</b><br>one consistent family</sub></td>
   </tr>
 </table>
 
