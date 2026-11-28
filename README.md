@@ -57,7 +57,7 @@ up 2 years — building NoNameOS, Grub Blasters, and whatever scratches the itch
 | a calculator that stays open | [Plusalator](https://github.com/Mark44928/Plusalator) · [Pythonator](https://github.com/Mark44928/Pythonator) · [CalculaHTML](https://github.com/Mark44928/CalculaHTML) · [Solvamath](https://github.com/Mark44928/Solvamath) |
 | less bloat on Android | [Easy-Termux-Package-Manager](https://github.com/Mark44928/Easy-Termux-Package-Manager) · [debloat-android-tv](https://github.com/Mark44928/debloat-android-tv) |
 
-<p align="center"><a href="#fleet">Fleet</a> · <a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#trophies">Trophies</a> · <a href="#activity">Activity</a> · <a href="#toolbox">Toolbox</a> · <a href="#connect">Connect</a></p>
+<p align="center"><a href="#fleet">Fleet</a> · <a href="#screens">Screenshots</a> · <a href="#now">Now</a> · <a href="#stack">Tech stack</a> · <a href="#projects">Projects</a> · <a href="#trophies">Trophies</a> · <a href="#toolbox">Toolbox</a> · <a href="#connect">Connect</a></p>
 
 ---
 
@@ -253,13 +253,13 @@ Eighteen standalone repositories, one visual family. Each logo is local to its p
 <div align="center">
 
 <a href="https://github.com/Mark44928">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Mark44928&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true&amp;bg_color=0C1F17&amp;title_color=7BD88F&amp;icon_color=63C9A8&amp;text_color=C9E4CE" alt="GitHub stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Mark44928&amp;theme=transparent&amp;hide_border=true&amp;background=0C1F17&amp;ring=7BD88F&amp;fire=63C9A8&amp;currStreakLabel=7BD88F&amp;sideLabels=C9E4CE&amp;dates=78997F" alt="GitHub streak" />
+  <img height="180em" src="profile/stats.svg" alt="GitHub stats" />
+  <img height="180em" src="profile/streak.svg" alt="GitHub streak" />
 </a>
 
 <br>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mark44928&amp;layout=donut&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true&amp;bg_color=0C1F17&amp;title_color=7BD88F&amp;text_color=C9E4CE" alt="Top languages" />
+<img height="180em" src="profile/top-langs.svg" alt="Top languages" />
 
 <br /><br />
 
@@ -481,28 +481,7 @@ Clear steps to reproduce are worth more than a vague bug report — and make fix
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mark44928&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
-<a id="activity"></a>
-## 📈 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mark44928&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=Mark44928%27s%20Contribution%20Graph" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## ⭐ Star History
-
-<div align="center">
-
-<img width="100%" src="https://api.star-history.com/svg?repos=Mark44928/SnakTUI,Mark44928/GrubBlastersHTML,Mark44928/CalculaHTML,Mark44928/Plusafetch,Mark44928/NoNameOS,Mark44928/Plusalator,Mark44928/Pythonator,Mark44928/Solvamath,Mark44928/Weatui,Mark44928/LinuBirth&amp;type=Date" alt="Star history chart" />
+<img src="profile/trophy.svg" alt="GitHub trophies" />
 
 </div>
 
