@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Passagen</title>
+  <desc id="d">Passagen logo: a key and lock with the wordmark.</desc>
+  <rect width="1200" height="300" rx="28" fill="#0C1F17"/>
+  <g transform="translate(60,60)">
+    <rect x="20" y="70" width="120" height="90" rx="14" fill="none" stroke="#7BD88F" stroke-width="10"/>
+    <path d="M50 70 V50 a30 30 0 0 1 60 0 V70" fill="none" stroke="#7BD88F" stroke-width="10"/>
+    <circle cx="80" cy="110" r="10" fill="#7BD88F"/>
+    <rect x="76" y="110" width="8" height="24" fill="#7BD88F"/>
+  </g>
+  <text x="300" y="180" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="92" font-weight="650" letter-spacing="-2" fill="#7BD88F">Passagen</text>
+</svg>
