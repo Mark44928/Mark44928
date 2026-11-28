@@ -253,13 +253,13 @@ Eighteen standalone repositories, one visual family. Each logo is local to its p
 <div align="center">
 
 <a href="https://github.com/Mark44928">
-  <img height="180em" src="profile/stats.svg" alt="GitHub stats" />
-  <img height="180em" src="profile/streak.svg" alt="GitHub streak" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Mark44928&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true&amp;bg_color=0C1F17&amp;title_color=7BD88F&amp;icon_color=63C9A8&amp;text_color=C9E4CE" alt="GitHub stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Mark44928&amp;theme=transparent&amp;hide_border=true&amp;background=0C1F17&amp;ring=7BD88F&amp;fire=63C9A8&amp;currStreakLabel=7BD88F&amp;sideLabels=C9E4CE&amp;dates=78997F" alt="GitHub streak" />
 </a>
 
 <br>
 
-<img height="180em" src="profile/top-langs.svg" alt="Top languages" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mark44928&amp;layout=donut&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true&amp;bg_color=0C1F17&amp;title_color=7BD88F&amp;text_color=C9E4CE" alt="Top languages" />
 
 <br /><br />
 
